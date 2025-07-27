@@ -1,4 +1,130 @@
-# Pizza Shop Analysis for Slice Territory Managers
+# Pizza Shop Analysis Dashboard
+
+A comprehensive analysis dashboard for pizza shops with website status, direct ordering capabilities, and actionable outreach data.
+
+## 🚀 Live Demo
+
+Visit the live dashboard: [https://mkyoung23.github.io/pizza-shop-analysis/](https://mkyoung23.github.io/pizza-shop-analysis/)
+
+## ✨ Features
+
+- **Interactive Data Table**: Browse through 400+ pizza shops with sortable columns
+- **Smart Filtering**: Filter by website status and ordering type
+- **Real-time Search**: Find specific shops instantly
+- **Analytics Dashboard**: View key statistics including:
+  - Total shops analyzed
+  - Shops with websites
+  - Shops with direct ordering capability
+- **Responsive Design**: Works perfectly on desktop and mobile
+- **Custom Styling**: Professional, modern interface without external dependencies
+
+## 📊 Sample Data
+
+The dashboard currently displays realistic sample data including:
+
+- **Shops with Direct Ordering**: Independent websites with their own ordering systems
+- **Third-party Ordering**: Shops using platforms like GrubHub, UberEats, DoorDash, etc.
+- **No Website**: Shops without an online presence (prime targets for outreach)
+
+## 🛠️ How It Works
+
+1. **Data Source**: The `results.csv` file contains the analysis results
+2. **Dashboard**: Custom HTML/CSS/JavaScript loads and displays the data
+3. **GitHub Pages**: Automatically deploys the latest version
+4. **GitHub Actions**: Can run automated analysis with API keys (optional)
+
+## 📁 File Structure
+
+```
+pizza-shop-analysis/
+├── index.html              # Main dashboard
+├── index_simple.html       # Simplified version
+├── results.csv             # Analysis data
+├── extended_analysis.py     # Analysis script
+├── .github/workflows/       # GitHub Actions
+└── README.md               # This file
+```
+
+## 🔧 Setup for Development
+
+### Running Locally
+
+1. Clone the repository:
+```bash
+git clone https://github.com/mkyoung23/pizza-shop-analysis.git
+cd pizza-shop-analysis
+```
+
+2. Start a local web server:
+```bash
+python3 -m http.server 8000
+```
+
+3. Open [http://localhost:8000](http://localhost:8000) in your browser
+
+### Updating Data
+
+To update the analysis data:
+
+1. **Option A - Manual Update**: Edit `results.csv` directly with new data
+2. **Option B - Run Analysis Script**:
+   ```bash
+   pip install pandas openpyxl requests
+   python3 extended_analysis.py --input "Store Map.xlsx" --output results.csv
+   ```
+
+### GitHub Pages Deployment
+
+The dashboard automatically deploys to GitHub Pages when you:
+1. Push changes to the main branch
+2. The live site updates within a few minutes
+
+## 🎯 Use Cases
+
+- **Sales Teams**: Identify pizza shops without websites for outreach
+- **Market Analysis**: Understand digital adoption in local markets
+- **Competitive Intelligence**: See which shops use third-party vs. direct ordering
+- **Lead Generation**: Find prospects who need website and ordering solutions
+
+## 🔑 API Integration (Optional)
+
+The analysis script supports API keys for automated data enrichment:
+
+- Google Search API for website discovery
+- OpenAI for intelligent categorization
+- Additional AI services for enhanced analysis
+
+Set environment variables in GitHub Secrets:
+- `GOOGLE_API_KEY`
+- `OPENAI_API_KEY`
+- `GEMINI_API_KEY`
+- `PERPLEXITY_API_KEY`
+
+## 📈 Statistics Overview
+
+Current sample dataset includes:
+- **434 Total Shops**
+- **42 Shops with Websites** (~10% coverage)
+- **30 Shops with Direct Ordering** (~7% have their own systems)
+
+This represents significant opportunity for web development and ordering system services.
+
+## 🎨 Customization
+
+The dashboard uses custom CSS and JavaScript for complete control over styling and functionality:
+
+- No external dependencies (Bootstrap, jQuery, etc.)
+- Fast loading and offline-capable
+- Easy to customize colors, layout, and features
+- Professional branding with "#23 AI Solutions" theme
+
+## 📞 Support
+
+For questions or support, please create an issue in this repository.
+
+---
+
+*Crafted by the #23 AI Solutions team – turning pizza data into sales magic.*
 
 This project automates the process of checking whether pizza shops in the Boston area have their own website and whether they offer direct online ordering.  It uses data provided in a Microsoft Excel workbook (such as **Store Map.xlsx**), calls the Google Places API to gather website information, and classifies each shop accordingly.  An interactive dashboard built with DataTables allows you to sort, search and filter the results.
 
