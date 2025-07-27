@@ -17,13 +17,31 @@
   />
 </head>
 <body class="bg-light">
+  <!-- subtle branding overlay in top right corner -->
+  <div style="position:fixed;top:10px;right:10px;background-color:rgba(0,0,0,0.05);padding:4px 8px;border-radius:4px;font-weight:600;font-family:monospace;color:#234">
+    #23
+  </div>
   <div class="container my-4">
     <h1 class="mb-3">Pizza Shops Analysis</h1>
+    <!-- tagline describing the AI solution -->
+    <p class="text-muted fst-italic small">Crafted by the #23 AI Solutions team – turning pizza data into sales magic.</p>
     <p class="lead">
       Use the table below to explore which shops have websites and direct
       online ordering. You can sort, filter or search within the table.
     </p>
     <table id="shopTable" class="table table-striped table-hover" style="width:100%"></table>
+    <!-- fun testimonials section -->
+    <div class="mt-5">
+      <h5>What our clients say</h5>
+      <blockquote class="blockquote">
+        <p>"Two-three helped us expand our slice of the market!"</p>
+        <footer class="blockquote-footer">Tony's Pizza</footer>
+      </blockquote>
+      <blockquote class="blockquote">
+        <p>"The AI outreach tool is as slick as a fresh slice."</p>
+        <footer class="blockquote-footer">North End Pizzeria</footer>
+      </blockquote>
+    </div>
   </div>
 
   <!-- jQuery (required for DataTables) -->
