@@ -69,7 +69,7 @@ To update the analysis data:
 1. **Option A - Manual Update**: Edit `results.csv` directly with new data
 2. **Option B - Run Analysis Script**:
    ```bash
-   pip install pandas openpyxl requests
+   pip install -r requirements.txt
    python3 extended_analysis.py --input "Store Map.xlsx" --output results.csv
    ```
 
@@ -103,9 +103,9 @@ Set environment variables in GitHub Secrets:
 ## 📈 Statistics Overview
 
 Current sample dataset includes:
-- **434 Total Shops**
-- **42 Shops with Websites** (~10% coverage)
-- **30 Shops with Direct Ordering** (~7% have their own systems)
+- **53 Total Shops**
+- **42 Shops with Websites** (~79% coverage)
+- **30 Shops with Direct Ordering** (~57% have their own systems)
 
 This represents significant opportunity for web development and ordering system services.
 
@@ -143,7 +143,7 @@ This project automates the process of checking whether pizza shops in the Boston
    Ensure you have Python 3.7+ installed.  Install the required libraries:
 
    ```bash
-   pip install pandas requests
+   pip install -r requirements.txt
    ```
 
 2. **Obtain a Google Places API key**
