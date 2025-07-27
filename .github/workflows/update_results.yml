@@ -1,0 +1,35 @@
+name: Update results and outreach
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 3 * * 1'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+      - name: Install dependencies
+        run: pip install pandas openpyxl requests
+      - name: Run analysis
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          PERPLEXITY_API_KEY: ${{ secrets.PERPLEXITY_API_KEY }}
+          GROK_API_KEY: ${{ secrets.GROK_API_KEY }}
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: python extended_analysis.py --input "Store Map.xlsx" --output results.csv --messages messages_output.csv
+      - name: Commit results
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add results.csv messages_output.csv
+          if ! git diff --cached --quiet; then
+            git commit -m "Update results and outreach messages"
+            git push
+          fi
