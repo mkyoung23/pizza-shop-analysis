@@ -1,4 +1,4 @@
-"""
+r"""
 shop_analysis.py
 =================
 
@@ -20,7 +20,7 @@ Prerequisites
 Usage
 -----
 ```
-python shop_analysis.py --input Store\ Map.xlsx --output results.csv
+python shop_analysis.py --input "Store Map.xlsx" --output results.csv
 ```
 
 The script reads all relevant sheets from the Excel workbook (``All``,
