@@ -4,9 +4,10 @@ This project automates the process of checking whether pizza shops in the Boston
 
 ## Contents
 
-- `shop_analysis.py` – Python script that reads the Excel workbook, queries the Google Places API, classifies each shop and writes a `results.csv` file.
-- `results.csv` – CSV file containing the analysis results (generated after you run the script).  Columns include `ShopID`, `AccountName`, `BillingCity`, `BillingZip`, `Website`, `HasWebsite`, `DirectOrdering` and `Note`.
+- `shop_analysis.py` – Python script that reads the Excel workbook, queries the Google Places API, classifies each shop and writes a `results.csv` file.  It can also generate outreach messages tailored to each shop.
+- `results.csv` – CSV file containing the classification results (generated after you run the script).  Columns include `ShopID`, `AccountName`, `BillingCity`, `BillingZip`, `Website`, `HasWebsite`, `DirectOrdering` and `Note`.
 - `index.html` – An interactive table based on DataTables.  When opened in a browser alongside `results.csv`, it lets you explore the data with sorting, searching and filtering.
+- `.env.sample` – Sample environment file showing the expected variables (`GOOGLE_API_KEY`, and optional `TWILIO_…`/`SENDGRID_…`).  Copy this to `.env` and fill in your real keys locally.  **Never commit your `.env` file.**
 - `README.md` – This documentation.
 
 ## Setup
@@ -21,13 +22,9 @@ This project automates the process of checking whether pizza shops in the Boston
 
 2. **Obtain a Google Places API key**
 
-   Create a Google Cloud project, enable the **Places API**, and generate an API key.  Set the key in your environment before running the script:
+   Create a Google Cloud project, enable the **Places API**, and generate an API key.  Copy `.env.sample` to `.env` and replace the placeholder value of `GOOGLE_API_KEY` with your real key.  Do **not** commit `.env` to version control—the repository’s `.gitignore` excludes it automatically.
 
-   ```bash
-   export GOOGLE_API_KEY="YOUR_GOOGLE_PLACES_API_KEY"
-   ```
-
-   **Important:** Keep your API key private.  Do not commit it to version control.
+   If you later integrate email/SMS sending, you can also add `TWILIO_ACCOUNT_SID`, `TWILIO_AUTH_TOKEN`, `TWILIO_FROM_PHONE` and `SENDGRID_API_KEY` to your `.env` file.
 
 3. **Run the analysis**
 
@@ -37,7 +34,13 @@ This project automates the process of checking whether pizza shops in the Boston
    python shop_analysis.py --input "Store Map.xlsx" --output results.csv
    ```
 
-   The script reads the `All`, `Multi Location Shops` and `OO Partners` sheets, deduplicates the list of shops, queries Google for each, and writes `results.csv`.
+   The script reads the `All`, `Multi Location Shops` and `OO Partners` sheets, deduplicates the list of shops, queries Google for each, and writes `results.csv`.  You can also generate personalised outreach messages by providing the `--messages` option:
+
+   ```bash
+   python shop_analysis.py --input "Store Map.xlsx" --output results.csv --messages outreach_messages.csv
+   ```
+
+   The `outreach_messages.csv` file contains a row per shop with customised email subject, email body and SMS body.  Import this file into your marketing or CRM tool to automate follow‑ups.
 
 4. **Open the interactive dashboard**
 
