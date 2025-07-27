@@ -1,0 +1,100 @@
+ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
+101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,API key not provided
+112483.0,Abe's Pizza - 112483,Athol,1331,,False,False,API key not provided
+99089.0,Acton House of Pizza - 99089,Acton,1720,,False,False,API key not provided
+nan,Acton New London Style Pizza,Acton,1720,,False,False,API key not provided
+36156.0,AJ's Pizzeria - 36156,West Boylston,1583,,False,False,API key not provided
+52681.0,Ak's Waltham - 52681,Waltham,2453,,False,False,API key not provided
+101889.0,Alexander's Pizza - 101889,Lexington,2421,,False,False,API key not provided
+51199.0,All Star Pizza Bar - 51199,Cambridge,2139,,False,False,API key not provided
+107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,,False,False,API key not provided
+17173.0,Amici's - 17173,Medford,2155,,False,False,API key not provided
+nan,Amore Pizza & Kitchen,Medford,2155,,False,False,API key not provided
+48139.0,Anastasia's Pizza Oven & Grill - 48139,Framingham,1702,,False,False,API key not provided
+108015.0,Andalus Pizza & Cafe - 108015,Brighton,2135,,False,False,API key not provided
+nan,ANDREAS PIZZA,WINCHESTER,1890,,False,False,API key not provided
+110949.0,Andrina's Pizzeria - 110949,Arlington,2476,,False,False,API key not provided
+nan,Angelina's Pizza and Subs,Somerville,2144,,False,False,API key not provided
+50131.0,Angelo's House of Pizza - 50131,Waltham,2453,,False,False,API key not provided
+nan,Angelo's Pizza,Cambridge,2138,,False,False,API key not provided
+5170.0,Annie's Pizzeria - 5170,Medford,2155,,False,False,API key not provided
+13714.0,Anthony's Pizza - 13714,Cambridge,2141,,False,False,API key not provided
+nan,Area Four,Cambridge,2139,,False,False,API key not provided
+17131.0,Arlington Cafe - 17131,Arlington,2474,,False,False,API key not provided
+15433.0,Arlington House of Pizza - 15433,Arlington,2476,,False,False,API key not provided
+nan,Arsenal Pizza,Watertown,2472,,False,False,API key not provided
+98916.0,Ashland Pizza Bella - 98916,Ashland,1721,,False,False,API key not provided
+nan,Ashland Pizza Palace,Ashland,1721,,False,False,API key not provided
+106923.0,Athens Pizza - 106923,Waltham,2453,,False,False,API key not provided
+42079.0,Athens Pizza & Family Restaurant - 42079,Leominster,1453,,False,False,API key not provided
+12133.0,Athol House of Pizza Restaurant - 12133,Athol,1331,,False,False,API key not provided
+nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,,False,False,API key not provided
+11020.0,B & F Pizza - 11020,Waltham,2451,,False,False,API key not provided
+39782.0,Barre Pizza - 39782,Barre,1005,,False,False,API key not provided
+105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,,False,False,API key not provided
+nan,Bazel's Pizza and Sub Shop,Holliston,1746,,False,False,API key not provided
+600.0,Beacon Street Pizza - 600,Somerville,2143,,False,False,API key not provided
+22987.0,Beauty's Pizza - 22987,Cambridge,2139,,False,False,API key not provided
+nan,Bella's Pizzeria,Framingham,1701,,False,False,API key not provided
+nan,Belmont Pizza,Belmont,2478,,False,False,API key not provided
+109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,,False,False,API key not provided
+98967.0,Bhop - Boston House of Pizza - 98967,Watertown,2472,,False,False,API key not provided
+nan,Bianca,Chestnut Hill,2467,,False,False,API key not provided
+112136.0,Big Daddy's 2 - 112136,Arlington,2474,,False,False,API key not provided
+48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,,False,False,API key not provided
+112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,,False,False,API key not provided
+12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,API key not provided
+52439.0,Bill's Pizzeria - 52439,Natick,1760,,False,False,API key not provided
+nan,Black Sheep Tavern,Sterling,1564,,False,False,API key not provided
+53051.0,Blue Square Pizza - 53051,Hopkinton,1748,,False,False,API key not provided
+nan,Bocelli's,Medford,2155,,False,False,API key not provided
+52894.0,Boss Pizza & Wings - 52894,Fitchburg,1420,,False,False,API key not provided
+110028.0,Boylston House of Pizza - 110028,Boylston,1505,,False,False,API key not provided
+98995.0,Brattle Stop Market - 98995,Worcester,1606,,False,False,API key not provided
+13513.0,Bravo Pizza - 13513,Boxborough,1719,,False,False,API key not provided
+110296.0,Braza Pizzeria & Wings - 110296,Southborough,1772,,False,False,API key not provided
+17284.0,Brick Fire Pizza - 17284,Newton Upper Fls,2464,,False,False,API key not provided
+15194.0,Brickstone Cafe - 15194,Arlington,2474,,False,False,API key not provided
+4728.0,Brighton House of Pizza - 4728,Brighton,2135,,False,False,API key not provided
+106790.0,Brother's Pizza - 106790,Hudson,1749,,False,False,API key not provided
+39272.0,Brothers Pizza - 39272,Ashburnham,1430,,False,False,API key not provided
+nan,Bruno's Pizza,Groton,1450,,False,False,API key not provided
+33024.0,Burncoat Pizza - 33024,Worcester,1606,,False,False,API key not provided
+5799.0,C & M Pizza - 5799,Leominster,1453,,False,False,API key not provided
+12171.0,C & N Pizza - 12171,Newton,2458,,False,False,API key not provided
+nan,C & S Pizza Of Pepperell,Pepperell,1463,,False,False,API key not provided
+35862.0,C & S Pizza of Winchendon - 35862,Winchendon,1475,,False,False,API key not provided
+nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,API key not provided
+nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,API key not provided
+112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,,False,False,API key not provided
+50525.0,Cambridge Pizza - 50525,Cambridge,2139,,False,False,API key not provided
+953.0,Cambridge Pizzeria - 953,Cambridge,2139,,False,False,API key not provided
+47259.0,Casa Pizza & Pasta - 47259,Medford,2155,,False,False,API key not provided
+nan,Celebrity Pizza,Watertown,2472,,False,False,API key not provided
+110580.0,Centre Pizza - 110580,Sterling,1564,,False,False,API key not provided
+3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,,False,False,API key not provided
+nan,Checkerboards Pizza Restaurant & Bar,Hudson,1749,,False,False,API key not provided
+nan,Christos Place,Winchendon,1475,,False,False,API key not provided
+36718.0,Ciao Bella - 36718,Worcester,1605,,False,False,API key not provided
+nan,Ciao! Pizza and Pasta,Somerville,2144,,False,False,API key not provided
+22988.0,Cinderella's Bar & Restaurant - 22988,Cambridge,2139,,False,False,API key not provided
+8427.0,City Slicker Cafe - 8427,Somerville,2143,,False,False,API key not provided
+17472.0,CJ's Gourmet Pizza & Grill - 17472,Sudbury,1776,,False,False,API key not provided
+nan,CJS GOURMET PIZZERIA,HUDSON,1749,,False,False,API key not provided
+nan,Classic Pizza Restaurant,Marlborough,1752,,False,False,API key not provided
+43211.0,Classic Pizza Restaurant III - 43211,Bolton,1740,,False,False,API key not provided
+nan,Cleghorn House Of pizza,Fitchburg,1420,,False,False,API key not provided
+47894.0,College Pizza - 47894,Boston,2215,,False,False,API key not provided
+17317.0,Cooks Window Italian Pizza & Catering - 17317,Wellesley,2481,,False,False,API key not provided
+nan,Corrado's Pizzeria,Natick,1760,,False,False,API key not provided
+36122.0,Country Pizza - 36122,Fitchburg,1420,,False,False,API key not provided
+17386.0,D & A House Of Pizza - 17386,Newton,2458,,False,False,API key not provided
+10124.0,D & D Pizza & Subs - 10124,Watertown,2472,,False,False,API key not provided
+57643.0,Da LaPosta Pizzeria - 57643,Newton,2460,,False,False,API key not provided
+nan,Daddy's Best Pizza,Leominster,1453,,False,False,API key not provided
+41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,,False,False,API key not provided
+98724.0,Davis Square Pizzeria - 98724,Somerville,2144,,False,False,API key not provided
+50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,API key not provided
+107238.0,Detroit Pizza Co. - 107238,Brighton,2135,,False,False,API key not provided
+17649.0,Devens Pizza & Deli - 17649,Ayer,1432,,False,False,API key not provided
+103208.0,Di Napoli Pizzeria - 103208,Westford,1886,,False,False,API key not provided
