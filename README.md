@@ -103,11 +103,11 @@ Set environment variables in GitHub Secrets:
 ## 📈 Statistics Overview
 
 Current sample dataset includes:
-- **434 Total Shops**
-- **42 Shops with Websites** (~10% coverage)
-- **30 Shops with Direct Ordering** (~7% have their own systems)
+- **400 Total Shops**
+- **165 Shops with Websites** (~41% coverage)
+- **112 Shops with Direct Ordering** (~28% have their own systems)
 
-This represents significant opportunity for web development and ordering system services.
+This represents significant opportunity for web development and ordering system services, especially among the 235 shops without websites and the 53 shops that rely solely on third-party platforms.
 
 ## 🎨 Customization
 
