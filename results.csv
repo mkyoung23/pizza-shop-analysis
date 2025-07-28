@@ -1,435 +1,401 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
-101978.0,57 Lincoln Kitchen - 101978,Newton,2461,https://57lincolnkitchen.com,True,True,
-112483.0,Abe's Pizza - 112483,Athol,1331,https://grubhub.com/restaurant/pizza,True,False,Website appears to be third-party ordering
-99089.0,Acton House of Pizza - 99089,Acton,1720,https://actonhouseofpizza.com,True,True,
-nan,Acton New London Style Pizza,Acton,1720,https://actonnewlondonstylepizza.com,True,True,
-36156.0,AJ's Pizzeria - 36156,West Boylston,1583,,False,False,No website found
-52681.0,Ak's Waltham - 52681,Waltham,2453,https://akswaltham.com,True,True,
-101889.0,Alexander's Pizza - 101889,Lexington,2421,https://alexanderspizza.com,True,True,
-51199.0,All Star Pizza Bar - 51199,Cambridge,2139,https://slicelife.com/pizza,True,False,Website appears to be third-party ordering
-107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,,False,False,No website found
-17173.0,Amici's - 17173,Medford,2155,https://amicis.com,True,True,
-nan,Amore Pizza & Kitchen,Medford,2155,https://amorepizzaandkitchen.com,True,True,
-48139.0,Anastasia's Pizza Oven & Grill - 48139,Framingham,1702,,False,False,No website found
-108015.0,Andalus Pizza & Cafe - 108015,Brighton,2135,,False,False,No website found
-nan,ANDREAS PIZZA,WINCHESTER,1890,https://andreaspizza.com,True,True,
-110949.0,Andrina's Pizzeria - 110949,Arlington,2476,https://ubereats.com/store/pizza,True,False,Website appears to be third-party ordering
-nan,Angelina's Pizza and Subs,Somerville,2144,https://angelinaspizzaandsubs.com,True,True,
-50131.0,Angelo's House of Pizza - 50131,Waltham,2453,https://angeloshouseofpizza.com,True,True,
-nan,Angelo's Pizza,Cambridge,2138,,False,False,No website found
-5170.0,Annie's Pizzeria - 5170,Medford,2155,,False,False,No website found
-13714.0,Anthony's Pizza - 13714,Cambridge,2141,https://anthonyspizza.com,True,True,
-nan,Area Four,Cambridge,2139,https://slicelife.com/pizza,True,False,Website appears to be third-party ordering
-17131.0,Arlington Cafe - 17131,Arlington,2474,https://arlingtoncafe.com,True,True,
-15433.0,Arlington House of Pizza - 15433,Arlington,2476,https://arlingtonhouseofpizza.com,True,True,
-nan,Arsenal Pizza,Watertown,2472,https://arsenalpizza.com,True,True,
-98916.0,Ashland Pizza Bella - 98916,Ashland,1721,https://ashlandpizzabella.com,True,True,
-nan,Ashland Pizza Palace,Ashland,1721,https://ashlandpizzapalace.com,True,True,
-106923.0,Athens Pizza - 106923,Waltham,2453,https://athenspizza.com,True,True,
-42079.0,Athens Pizza & Family Restaurant - 42079,Leominster,1453,https://athenspizzaandfamilyrestaurant.com,True,True,
-12133.0,Athol House of Pizza Restaurant - 12133,Athol,1331,https://atholhouseofpizzarestaurant.com,True,True,
-nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,https://ubereats.com/store/pizza,True,False,Website appears to be third-party ordering
-11020.0,B & F Pizza - 11020,Waltham,2451,https://bandfpizza.com,True,True,
-39782.0,Barre Pizza - 39782,Barre,1005,,False,False,No website found
-105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,https://bastapastatrattoria.com,True,True,
-nan,Bazel's Pizza and Sub Shop,Holliston,1746,https://bazelspizzaandsubshop.com,True,True,
-600.0,Beacon Street Pizza - 600,Somerville,2143,https://beaconstreetpizza.com,True,True,
-22987.0,Beauty's Pizza - 22987,Cambridge,2139,https://doordash.com/store/pizza,True,False,Website appears to be third-party ordering
-nan,Bella's Pizzeria,Framingham,1701,https://grubhub.com/restaurant/pizza,True,False,Website appears to be third-party ordering
-nan,Belmont Pizza,Belmont,2478,https://belmontpizza.com,True,True,
-109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,https://slicelife.com/pizza,True,False,Website appears to be third-party ordering
-98967.0,Bhop - Boston House of Pizza - 98967,Watertown,2472,https://bhop.com,True,True,
-nan,Bianca,Chestnut Hill,2467,,False,False,No website found
-112136.0,Big Daddy's 2 - 112136,Arlington,2474,https://ubereats.com/store/pizza,True,False,Website appears to be third-party ordering
-48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,https://bigdaddyspizzaandsteaksubs.com,True,True,
-112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,,False,False,No website found
-12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,No website found
-52439.0,Bill's Pizzeria - 52439,Natick,1760,https://doordash.com/store/pizza,True,False,Website appears to be third-party ordering
-nan,Black Sheep Tavern,Sterling,1564,https://blacksheeptavern.com,True,True,
-53051.0,Blue Square Pizza - 53051,Hopkinton,1748,https://doordash.com/store/pizza,True,False,Website appears to be third-party ordering
-nan,Bocelli's,Medford,2155,https://ubereats.com/store/pizza,True,False,Website appears to be third-party ordering
-52894.0,Boss Pizza & Wings - 52894,Fitchburg,1420,https://bosspizzaandwings.com,True,True,
-110028.0,Boylston House of Pizza - 110028,Boylston,1505,,False,False,No website found
-98995.0,Brattle Stop Market - 98995,Worcester,1606,https://brattlestopmarket.com,True,True,
-13513.0,Bravo Pizza - 13513,Boxborough,1719,https://bravopizza.com,True,True,
-13714.0,Anthony's Pizza - 13714,Cambridge,2141,,False,False,API key not provided
-nan,Area Four,Cambridge,2139,,False,False,API key not provided
-17131.0,Arlington Cafe - 17131,Arlington,2474,,False,False,API key not provided
-15433.0,Arlington House of Pizza - 15433,Arlington,2476,,False,False,API key not provided
-nan,Arsenal Pizza,Watertown,2472,,False,False,API key not provided
-98916.0,Ashland Pizza Bella - 98916,Ashland,1721,,False,False,API key not provided
-nan,Ashland Pizza Palace,Ashland,1721,,False,False,API key not provided
-106923.0,Athens Pizza - 106923,Waltham,2453,,False,False,API key not provided
-42079.0,Athens Pizza & Family Restaurant - 42079,Leominster,1453,,False,False,API key not provided
-12133.0,Athol House of Pizza Restaurant - 12133,Athol,1331,,False,False,API key not provided
-nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,,False,False,API key not provided
-11020.0,B & F Pizza - 11020,Waltham,2451,,False,False,API key not provided
-39782.0,Barre Pizza - 39782,Barre,1005,,False,False,API key not provided
-105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,,False,False,API key not provided
-nan,Bazel's Pizza and Sub Shop,Holliston,1746,,False,False,API key not provided
-600.0,Beacon Street Pizza - 600,Somerville,2143,,False,False,API key not provided
-22987.0,Beauty's Pizza - 22987,Cambridge,2139,,False,False,API key not provided
-nan,Bella's Pizzeria,Framingham,1701,,False,False,API key not provided
-nan,Belmont Pizza,Belmont,2478,,False,False,API key not provided
-109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,,False,False,API key not provided
-98967.0,Bhop - Boston House of Pizza - 98967,Watertown,2472,,False,False,API key not provided
-nan,Bianca,Chestnut Hill,2467,,False,False,API key not provided
-112136.0,Big Daddy's 2 - 112136,Arlington,2474,,False,False,API key not provided
-48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,,False,False,API key not provided
-112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,,False,False,API key not provided
-12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,API key not provided
-52439.0,Bill's Pizzeria - 52439,Natick,1760,,False,False,API key not provided
-nan,Black Sheep Tavern,Sterling,1564,,False,False,API key not provided
-53051.0,Blue Square Pizza - 53051,Hopkinton,1748,,False,False,API key not provided
-nan,Bocelli's,Medford,2155,,False,False,API key not provided
-52894.0,Boss Pizza & Wings - 52894,Fitchburg,1420,,False,False,API key not provided
-110028.0,Boylston House of Pizza - 110028,Boylston,1505,,False,False,API key not provided
-98995.0,Brattle Stop Market - 98995,Worcester,1606,,False,False,API key not provided
-13513.0,Bravo Pizza - 13513,Boxborough,1719,,False,False,API key not provided
-110296.0,Braza Pizzeria & Wings - 110296,Southborough,1772,,False,False,API key not provided
-17284.0,Brick Fire Pizza - 17284,Newton Upper Fls,2464,,False,False,API key not provided
-15194.0,Brickstone Cafe - 15194,Arlington,2474,,False,False,API key not provided
-4728.0,Brighton House of Pizza - 4728,Brighton,2135,,False,False,API key not provided
-106790.0,Brother's Pizza - 106790,Hudson,1749,,False,False,API key not provided
-39272.0,Brothers Pizza - 39272,Ashburnham,1430,,False,False,API key not provided
-nan,Bruno's Pizza,Groton,1450,,False,False,API key not provided
-33024.0,Burncoat Pizza - 33024,Worcester,1606,,False,False,API key not provided
-5799.0,C & M Pizza - 5799,Leominster,1453,,False,False,API key not provided
-12171.0,C & N Pizza - 12171,Newton,2458,,False,False,API key not provided
-nan,C & S Pizza Of Pepperell,Pepperell,1463,,False,False,API key not provided
-35862.0,C & S Pizza of Winchendon - 35862,Winchendon,1475,,False,False,API key not provided
-nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,API key not provided
-nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,API key not provided
-112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,,False,False,API key not provided
-50525.0,Cambridge Pizza - 50525,Cambridge,2139,,False,False,API key not provided
-953.0,Cambridge Pizzeria - 953,Cambridge,2139,,False,False,API key not provided
-47259.0,Casa Pizza & Pasta - 47259,Medford,2155,,False,False,API key not provided
-nan,Celebrity Pizza,Watertown,2472,,False,False,API key not provided
-110580.0,Centre Pizza - 110580,Sterling,1564,,False,False,API key not provided
-3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,,False,False,API key not provided
-nan,Checkerboards Pizza Restaurant & Bar,Hudson,1749,,False,False,API key not provided
-nan,Christos Place,Winchendon,1475,,False,False,API key not provided
-36718.0,Ciao Bella - 36718,Worcester,1605,,False,False,API key not provided
-nan,Ciao! Pizza and Pasta,Somerville,2144,,False,False,API key not provided
-22988.0,Cinderella's Bar & Restaurant - 22988,Cambridge,2139,,False,False,API key not provided
-8427.0,City Slicker Cafe - 8427,Somerville,2143,,False,False,API key not provided
-17472.0,CJ's Gourmet Pizza & Grill - 17472,Sudbury,1776,,False,False,API key not provided
-nan,CJS GOURMET PIZZERIA,HUDSON,1749,,False,False,API key not provided
-nan,Classic Pizza Restaurant,Marlborough,1752,,False,False,API key not provided
-43211.0,Classic Pizza Restaurant III - 43211,Bolton,1740,,False,False,API key not provided
-nan,Cleghorn House Of pizza,Fitchburg,1420,,False,False,API key not provided
-47894.0,College Pizza - 47894,Boston,2215,,False,False,API key not provided
-17317.0,Cooks Window Italian Pizza & Catering - 17317,Wellesley,2481,,False,False,API key not provided
-nan,Corrado's Pizzeria,Natick,1760,,False,False,API key not provided
-36122.0,Country Pizza - 36122,Fitchburg,1420,,False,False,API key not provided
-17386.0,D & A House Of Pizza - 17386,Newton,2458,,False,False,API key not provided
-10124.0,D & D Pizza & Subs - 10124,Watertown,2472,,False,False,API key not provided
-57643.0,Da LaPosta Pizzeria - 57643,Newton,2460,,False,False,API key not provided
-nan,Daddy's Best Pizza,Leominster,1453,,False,False,API key not provided
-41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,,False,False,API key not provided
-98724.0,Davis Square Pizzeria - 98724,Somerville,2144,,False,False,API key not provided
-50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,API key not provided
-107238.0,Detroit Pizza Co. - 107238,Brighton,2135,,False,False,API key not provided
-17649.0,Devens Pizza & Deli - 17649,Ayer,1432,,False,False,API key not provided
-103208.0,Di Napoli Pizzeria - 103208,Westford,1886,,False,False,API key not provided
-52807.0,Dicapri Pizzeria - 52807,Acton,1720,,False,False,API key not provided
-nan,Diggy's Pizza,Westford,1886,,False,False,API key not provided
-nan,Dino's Kouzina & Pizzeria,Concord,1742,,False,False,API key not provided
-nan,DINOS PIZZA,CONCORD,1742,,False,False,API key not provided
-nan,Dominican Grill Chicken Pizza,Waltham,2451,,False,False,API key not provided
-18767.0,Dragon Pizza - 18767,Somerville,2144,,False,False,API key not provided
-4318.0,Eddy's Place - 4318,Medford,2155,,False,False,API key not provided
-104050.0,Enzina Bakery - 104050,Waltham,2451,,False,False,API key not provided
-103273.0,Enzina Pizzeria - 103273,Waltham,2451,,False,False,API key not provided
-16906.0,Ernesto's Pizza - 16906,Somerville,2145,,False,False,API key not provided
-40008.0,Eros Gourmet Pizza & Deli - 40008,Southborough,1772,,False,False,API key not provided
-30305.0,Espresso Pizza - 30305,Fitchburg,1420,,False,False,API key not provided
-42306.0,Espresso Pizza & Eatery II - 42306,Leominster,1453,,False,False,API key not provided
-105275.0,Evviva Trattoria Marlborough - 105275,Marlborough,1752,,False,False,API key not provided
-11450.0,Express Pizza - 11450,Bedford,1730,,False,False,API key not provided
-nan,Family House Of Pizza,Marlborough,1752,,False,False,API key not provided
-3595.0,Family Style Pizza - 3595,Framingham,1702,,False,False,API key not provided
-42156.0,Fastway Pizza - 42156,Worcester,1606,,False,False,API key not provided
-nan,FiDO Pizza,Boston,2134,,False,False,API key not provided
-111173.0,FIESTA BITES PIZZERIA - 111173,Arlington,2476,,False,False,API key not provided
-nan,Fiorella's Express,Lexington,2421,,False,False,API key not provided
-nan,Fiorella's Trattoria,Lexington,2421,,False,False,API key not provided
-103687.0,For Pizza - 103687,Medford,2155,,False,False,API key not provided
-nan,Framingham Sub Shop & Pizza,Framingham,1702,,False,False,API key not provided
-13556.0,Franco's Pizzeria & Pub - 13556,Waltham,2453,,False,False,API key not provided
-17457.0,Franco's Trattoria - 17457,Sudbury,1776,,False,False,API key not provided
-56920.0,Friendly Pizza - 56920,Framingham,1702,,False,False,API key not provided
-51004.0,Friendly Town Pizza - 51004,Athol,1331,,False,False,API key not provided
-650.0,Friends Pizza - 650,Somerville,2145,,False,False,API key not provided
-110100.0,From Scratch-Authentic Italian Pizzeria - 110100,Brighton,2135,,False,False,API key not provided
-35287.0,Gabby's Pizza - 35287,Winchendon,1475,,False,False,API key not provided
-44469.0,Garden Pizza & Seafood - 44469,Gardner,1440,,False,False,API key not provided
-39080.0,Garden Pizza & Sub - 39080,Worcester,1605,,False,False,API key not provided
-47117.0,Gaya Pizzeria - 47117,Somerville,2143,,False,False,API key not provided
-9467.0,George's Pizza - 9467,Natick,1760,,False,False,API key not provided
-1139.0,Gerry's Italian Kitchen - 1139,Watertown,2472,,False,False,API key not provided
-nan,Giacomo's Ristorante,Wayland,1778,,False,False,API key not provided
-nan,Gianni's Deli And pizza,Needham,2494,,False,False,API key not provided
-nan,Gianni's Pizza and Sub's Inc,Framingham,1701,,False,False,API key not provided
-54017.0,Gigi's Pizza Co - 54017,Watertown,2472,,False,False,API key not provided
-100661.0,Giorgio's Italian Pizzeria - 100661,Hudson,1749,,False,False,API key not provided
-14162.0,Giovanni's Famous Pizza - 14162,Natick,1760,,False,False,API key not provided
-nan,Gloria's Pizzeria,Winchester,1890,,False,False,API key not provided
-106047.0,Goda's Pizza - 106047,Holden,1520,,False,False,API key not provided
-nan,Graffiti Pizza and Street Food,Boston,2134,,False,False,API key not provided
-nan,Gran Gusto,Cambridge,2140,,False,False,API key not provided
-100421.0,Granvitors Pizza - 100421,Medford,2155,,False,False,API key not provided
-44918.0,Greendale Pizza - 44918,Worcester,1606,,False,False,API key not provided
-16081.0,Greenhouse Kitchen - 16081,Brighton,2135,,False,False,API key not provided
-17484.0,Gregory's House of Pizza - 17484,Belmont,2478,,False,False,API key not provided
-nan,Gufo,Cambridge,2141,,False,False,API key not provided
-111955.0,Half Shell Pizza & More - 111955,Cambridge,2140,,False,False,API key not provided
-16907.0,Harvard House of Pizza - 16907,Cambridge,2138,,False,False,API key not provided
-nan,Hearth Pizzeria,Needham,2492,,False,False,API key not provided
-nan,Hiller's Pizza,Hopkinton,1748,,False,False,API key not provided
-106035.0,Holden Pizza - 106035,Holden,1520,,False,False,API key not provided
-105701.0,Hot Box - 105701,Somerville,2143,,False,False,API key not provided
-nan,Hot Tomatoes,Somerville,2143,,False,False,API key not provided
-34298.0,Hubbardston Pizza Palace - 34298,Hubbardston,1452,,False,False,API key not provided
-5956.0,Hudson House of Pizza - 5956,Hudson,1749,,False,False,API key not provided
-nan,Il Forno Brick Oven Pizza,Lunenburg,1462,,False,False,API key not provided
-50185.0,Inbound Pizza - 50185,Allston,2134,,False,False,API key not provided
-nan,Ita's Pizza Kitchen,Worcester,1605,,False,False,API key not provided
-nan,Jack's Abby Brewing,Framingham,1702,,False,False,API key not provided
-41413.0,Jim's Pizza - 41413,Worcester,1605,,False,False,API key not provided
-nan,Jinny's Pizzeria,Newton,2459,,False,False,API key not provided
-54365.0,Joe Pizza - 54365,Medford,2155,,False,False,API key not provided
-104633.0,Johnnie's Pizza & Wings - 104633,Watertown,2472,,False,False,API key not provided
-108854.0,Josephine - 108854,Somerville,2143,,False,False,API key not provided
-nan,Junction RPD,Ayer,1432,,False,False,API key not provided
-nan,June Bug,Somerville,2143,,False,False,API key not provided
-nan,Junior Pizza House,Acton,1720,,False,False,API key not provided
-nan,Karines Pizza And Deli,Marlborough,1752,,False,False,API key not provided
-54622.0,Ken's NY Deli & Pizza - 54622,Bedford,1730,,False,False,API key not provided
-17343.0,Kendall House of Pizza - 17343,Cambridge,2141,,False,False,API key not provided
-52911.0,Kindles Wood Fired Brick Oven Pizzeria - 52911,Marlborough,1752,,False,False,API key not provided
-nan,Kosta's Pizza and Seafood,Needham,2492,,False,False,API key not provided
-2172.0,La Befana Pizzeria - 2172,Allston,2134,,False,False,API key not provided
-102013.0,La GaZZa Brazilian Kitchen - 102013,Leominster,1453,,False,False,API key not provided
-105871.0,La GaZZa Brazilian Kitchen - 105871,Framingham,1701,,False,False,API key not provided
-103532.0,La Mamma Pizza & More - 103532,Allston,2134,,False,False,API key not provided
-nan,La Toscana's Pizzeria,Wellesley,2482,,False,False,API key not provided
-56714.0,LaGazza Kitchen - 56714,Leominster,1453,,False,False,API key not provided
-56834.0,Land of Fire Pizzeria - 56834,Brighton,2135,,False,False,API key not provided
-nan,Lazy Mary's Pizzeria,Ayer,1432,,False,False,API key not provided
-17731.0,Lena's Original Pizza & Sub - 17731,Waltham,2451,,False,False,API key not provided
-43188.0,Leominster House of Pizza - 43188,Leominster,1453,,False,False,API key not provided
-nan,Leone's Sub And Pizza,Somerville,2145,,False,False,API key not provided
-17402.0,Lexington House Of Pizza - 17402,Lexington,2420,,False,False,API key not provided
-nan,Liberty Famous Pizza,Framingham,1701,,False,False,API key not provided
-49028.0,Liberty's Pizza of Natick - 49028,Natick,1760,,False,False,API key not provided
-109496.0,Little Family Pizza - 109496,Watertown,2472,,False,False,API key not provided
-504.0,Little Pizza King - 504,Brighton,2135,,False,False,API key not provided
-nan,Ma Magoo's,Cambridge,2138,,False,False,API key not provided
-56692.0,Main Street Pizza - 56692,Hudson,1749,,False,False,API key not provided
-4241.0,Mama Gina's Pizza - 4241,Somerville,2143,,False,False,API key not provided
-nan,Mama's Bakery,Ashland,1721,,False,False,API key not provided
-55087.0,Mamma Lisa's Pizzeria - 55087,Somerville,2145,,False,False,API key not provided
-nan,Mariano's Ristorante,Pepperell,1463,,False,False,API key not provided
-52146.0,Mark & Toni's Coal Fired Pizza - 52146,Belmont,2478,,False,False,API key not provided
-50929.0,Mark's Pizza & Subs - 50929,Wellesley Hills,2481,,False,False,API key not provided
-8798.0,Marlboro House of Pizza - 8798,Marlborough,1752,,False,False,API key not provided
-57438.0,Master Pies Pizza - 57438,Arlington,2476,,False,False,API key not provided
-nan,Max & Leos Artisan Pizza,Sudbury,1776,,False,False,API key not provided
-17485.0,Max And Leo's Artisan Pizza - 17485,Newton,2458,,False,False,API key not provided
-111197.0,Maynard Pizza & Bar - 111197,Maynard,1754,,False,False,API key not provided
-53369.0,Maynard Village Pizza - 53369,Maynard,1754,,False,False,API key not provided
-nan,Michael's Pizza,Belmont,2478,,False,False,API key not provided
-107631.0,Mike's Pizza - 107631,Westminster,1473,,False,False,API key not provided
-4563.0,Milano Pizza - 4563,Brighton,2135,,False,False,API key not provided
-11294.0,Mingaliens Trattoria - 11294,Natick,1760,,False,False,API key not provided
-55183.0,Momo Bistro & Brick Oven Pizza - 55183,Fitchburg,1420,,False,False,API key not provided
-19949.0,Mortadella Head - 19949,Somerville,2144,,False,False,API key not provided
-37815.0,Mr Z's Pizza - 37815,Clinton,1510,,False,False,API key not provided
-104018.0,Mr. Roni Cups - 104018,Chestnut Hill,2467,,False,False,API key not provided
-16913.0,My Brother's Place - 16913,Arlington,2474,,False,False,API key not provided
-nan,Nani's Pizza,Clinton,1510,,False,False,API key not provided
-19931.0,Nashoba Club - 19931,Ayer,1432,,False,False,API key not provided
-nan,Nashoba Pizza,Westford,1886,,False,False,API key not provided
-nan,Needham House Of Pizza,Needham,2492,,False,False,API key not provided
-nan,New London Style Pizza-Concord,Concord,1742,,False,False,API key not provided
-4571.0,New York Fried Chicken & Pizza - 4571,Brighton,2135,,False,False,API key not provided
-nan,New York Pizza Central Square,Cambridge,2139,,False,False,API key not provided
-8883.0,New York Taco & Pizza - 8883,Waltham,2452,,False,False,API key not provided
-53830.0,Newton Center Town Pizza - 53830,Newton Centre,2459,,False,False,API key not provided
-100224.0,Newton Corner House of Pizza - 100224,Watertown,2472,,False,False,API key not provided
-17385.0,Newtonville Pizza - 17385,Newton,2460,,False,False,API key not provided
-15911.0,Nicholas' Pizzeria - 15911,Needham,2492,,False,False,API key not provided
-nan,Nick's Deli & Pizza,Marlborough,1752,,False,False,API key not provided
-49801.0,Nick's House of Pizza - 49801,Medford,2155,,False,False,API key not provided
-17020.0,Nick's Pizza & Grill - 17020,Ashland,1721,,False,False,API key not provided
-17217.0,Nick's Pizza House - 17217,Natick,1760,,False,False,API key not provided
-9158.0,Nick's Place - 9158,Lexington,2420,,False,False,API key not provided
-47089.0,Nick's Place 2 - 47089,Belmont,2478,,False,False,API key not provided
-46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,,False,False,API key not provided
-45988.0,Northeast Pizza Barre - 45988,Barre,1005,,False,False,API key not provided
-111325.0,NY Pie - 111325,Waltham,2453,,False,False,API key not provided
-1834.0,NY Pizza - 1834,Leominster,1453,,False,False,API key not provided
-3446.0,Oak Hill Pizza - 3446,Newton Center,2459,,False,False,API key not provided
-105595.0,Oath Pizza Linden Square Wellesley - 105595,Wellesley,2482,,False,False,API key not provided
-6955.0,Oggi Gourmet - 6955,Cambridge,2138,,False,False,API key not provided
-nan,Old School Italian Pizzeria,Wellesley,2482,,False,False,API key not provided
-nan,olo Pizza,Worcester,1606,,False,False,API key not provided
-21012.0,Olympic Pizza - 21012,Arlington,2474,,False,False,API key not provided
-46097.0,Orbit Pizza - 46097,Holden,1520,,False,False,API key not provided
-nan,P & S Pizza House,Clinton,1510,,False,False,API key not provided
-nan,P & S Pizza Inc,Clinton,1510,,False,False,API key not provided
-54540.0,"Padaria Brasil - Bakery, Buffet & Pizzeria - 54540",Framingham,1702,,False,False,API key not provided
-nan,Papous Pizzas,Leominster,1453,,False,False,API key not provided
-34741.0,Park Hill Pizza - 34741,Fitchburg,1420,,False,False,API key not provided
-101913.0,Parker House Of Pizza - 101913,Gardner,1440,,False,False,API key not provided
-12914.0,Parrot Pizza Holden - 12914,Holden,1520,,False,False,API key not provided
-nan,Patriot Pizza & Subs,Townsend,1469,,False,False,API key not provided
-44812.0,Patriots Pizza & More - 44812,Gardner,1440,,False,False,API key not provided
-12556.0,Patriots Roast Beef & Pizza - 12556,Templeton,1468,,False,False,API key not provided
-3056.0,Pepi's Pizzeria - 3056,Somerville,2145,,False,False,API key not provided
-nan,Peter's Pizza,Wellesley,2481,,False,False,API key not provided
-nan,Pini's Pizzeria,Medford,2155,,False,False,API key not provided
-16729.0,Pini's Pizzeria - 16729,Waltham,2453,,False,False,API key not provided
-46787.0,Pinky's Famous Pizza - 46787,Medford,2155,,False,False,API key not provided
-9533.0,Pino's Pizza - 9533,Brighton,2135,,False,False,API key not provided
-nan,Pinocchio's Pizza & Subs,Cambridge,2138,,False,False,API key not provided
-43170.0,Pizza Bella - 43170,Devens,1434,,False,False,API key not provided
-18915.0,Pizza By Rocco - 18915,Natick,1760,,False,False,API key not provided
-52816.0,Pizza Etc - 52816,Brighton,2135,,False,False,API key not provided
-17299.0,Pizza Express - 17299,Maynard,1754,,False,False,API key not provided
-17635.0,Pizza Express & More - 17635,Littleton,1460,,False,False,API key not provided
-35647.0,Pizza King - 35647,Leominster,1453,,False,False,API key not provided
-17158.0,Pizza Market - 17158,West Newton,2465,,False,False,API key not provided
-110710.0,Pizza Mine - 110710,Ashland,1721,,False,False,API key not provided
-nan,Pizza Peddler & Deli,Natick,1760,,False,False,API key not provided
-111836.0,Pizza Pie & Kitchen - 111836,Marlborough,1752,,False,False,API key not provided
-17163.0,Pizza Pizzazz - 17163,Pepperell,1463,,False,False,API key not provided
-17225.0,Pizza Pizzazz - 17225,Townsend,1469,,False,False,API key not provided
-nan,Pizza Project,Brighton,2135,,False,False,API key not provided
-102662.0,Pizza Shop at South Natick - 102662,Natick,1760,,False,False,API key not provided
-nan,Pizza Stop,Brookline,2445,,False,False,API key not provided
-4115.0,Pizza Wagon - 4115,Framingham,1701,,False,False,API key not provided
-nan,Pizza-Roma,Watertown,2472,,False,False,API key not provided
-nan,"Pizzarella, Inc.",Marlborough,1752,,False,False,API key not provided
-44708.0,Pizzaville - 44708,Southborough,1772,,False,False,API key not provided
-nan,Pizzeria Presti,Westford,1886,,False,False,API key not provided
-109688.0,Planett Pizza - 109688,Marlborough,1752,,False,False,API key not provided
-nan,Pleasant Pizza & Grill,Marlborough,1752,,False,False,API key not provided
-36127.0,Pomodoro's Pizza - 36127,Worcester,1605,,False,False,API key not provided
-17396.0,Post Road Pizza - 17396,Marlborough,1752,,False,False,API key not provided
-nan,Posto,Somerville,2144,,False,False,API key not provided
-nan,Prairie Fire,Brookline,2446,,False,False,API key not provided
-38294.0,Presto Pizza - 38294,Lunenburg,1462,,False,False,API key not provided
-12121.0,Primo Pizza of Cambridge & Roast Beef - 12121,Cambridge,2139,,False,False,API key not provided
-105602.0,Princeton House of Pizza - 105602,Princeton,1541,,False,False,API key not provided
-nan,Proof Pizzeria,Allston,2134,,False,False,API key not provided
-52702.0,Rail Trail Flatbread Co - 52702,Hudson,1749,,False,False,API key not provided
-53363.0,Ready Set Pizza - 53363,Worcester,1606,,False,False,API key not provided
-12867.0,Real Italian Gusto - 12867,Medford,2155,,False,False,API key not provided
-nan,Red Tomato Pizza,Barre,1005,,False,False,API key not provided
-39381.0,Reno's Pizzeria - 39381,Templeton,1438,,False,False,API key not provided
-52321.0,Restaurant Pizza Works - 52321,Worcester,1605,,False,False,API key not provided
-111234.0,Riverbridge Pizza & Deli - 111234,Berlin,1503,,False,False,API key not provided
-nan,Riverside Pizza & Seafoods,Cambridge,2139,,False,False,API key not provided
-nan,Road Runner Pizza,WORCESTER,1606,,False,False,API key not provided
-47912.0,Roasted Peppers - 47912,Maynard,1754,,False,False,API key not provided
-52995.0,Roasted Peppers Pizza - 52995,Leominster,1453,,False,False,API key not provided
-47605.0,Rock City Pizza - 47605,Boston,2134,,False,False,API key not provided
-nan,Romano Pizza and Pasta,Acton,1720,,False,False,API key not provided
-52671.0,Rossini's Pizzeria - 52671,Sudbury,1776,,False,False,API key not provided
-17455.0,Rossini's Pizzeria & Restaurant - 17455,Concord,1742,,False,False,API key not provided
-51002.0,Royal Pizza & Subs - 51002,Somerville,2143,,False,False,API key not provided
-10066.0,Rustic Pizza - 10066,Sherborn,1770,,False,False,API key not provided
-44926.0,Rutland House of Pizza - 44926,Rutland,15430,,False,False,API key not provided
-54340.0,Sammy's Pizza & Fried Chicken - 54340,Brighton,2135,,False,False,API key not provided
-nan,Semolina Kitchen & Bar,Medford,2155,,False,False,API key not provided
-nan,Shannon's Pizza,West Boylston,1583,,False,False,API key not provided
-nan,Shirley Sub Shoppe,Shirley,1464,,False,False,API key not provided
-nan,Si Cara,Cambridge,2139,,False,False,API key not provided
-100954.0,Silk Global Cuisine - 100954,Framingham,1701,,False,False,API key not provided
-nan,Silver Palate Pizza,Westford,1886,,False,False,API key not provided
-17407.0,Skampa - 17407,Cambridge,2141,,False,False,API key not provided
-32407.0,Slater's - 32407,Bolton,1740,,False,False,API key not provided
-nan,Sophia's Pizzeria,Townsend,1469,,False,False,API key not provided
-nan,Sorrento's Brick Oven Pizzeria,Acton,1720,,False,False,API key not provided
-37609.0,Sorrento's Pizzeria - 37609,Harvard,1451,,False,False,API key not provided
-52164.0,Source Restaurants - 52164,Cambridge,2138,,False,False,API key not provided
-41336.0,Southborough House of Pizza - 41336,Southborough,1772,,False,False,API key not provided
-nan,Southborough Pizza,Southborough,1772,,False,False,API key not provided
-nan,Spruce Street Tavern,Clinton,1510,,False,False,API key not provided
-111412.0,Square Manufacturing - 111412,Natick,1760,,False,False,API key not provided
-110705.0,Stefanos' House of Pizza - 110705,Westminster,1473,,False,False,API key not provided
-nan,Stella's Pizza,Watertown,2472,,False,False,API key not provided
-106042.0,Sterling Village Pizza & More - 106042,Sterling,1564,,False,False,API key not provided
-nan,Steve's House Of Pizza,Bedford,1730,,False,False,API key not provided
-41606.0,Steve's Pizza - 41606,West Boylston,1583,,False,False,API key not provided
-nan,STOKED PIZZA,BROOKLINE,02446-2201,,False,False,API key not provided
-nan,Stoked Pizza Company,Cambridge,2138,,False,False,API key not provided
-15251.0,Stone L'Oven Pizza Co - 15251,Newton,2468,,False,False,API key not provided
-58104.0,Stow House Of Pizza - 58104,Stow,1775,,False,False,API key not provided
-50826.0,Street Kitchen - 50826,Marlborough,1752,,False,False,API key not provided
-58103.0,Sudbury Pizza Place - 58103,Sudbury,1776,,False,False,API key not provided
-110998.0,Super Dough Pizza - 110998,Newton,2464,,False,False,API key not provided
-nan,Sweet Tomatoes Neapolitan Pizza,Newton Center,2459,,False,False,API key not provided
-12385.0,T Anthony Pizzeria - 12385,Boston,2215,,False,False,API key not provided
-101444.0,T. C. Lando's Sub & Pizzeria - 101444,Clinton,1510,,False,False,API key not provided
-101725.0,T.C Lando's Sub & Pizzeria - 101725,Leominster,1453,,False,False,API key not provided
-nan,Table Top Pizza,Holliston,1746,,False,False,API key not provided
-11636.0,Tango Pizza - 11636,Framingham,1702,,False,False,API key not provided
-12073.0,Tara Restaurant Pizza & More - 12073,Waltham,2453,,False,False,API key not provided
-nan,Tarboosh Pizza and Mediterranean Grill,Allston,2134,,False,False,API key not provided
-101723.0,TC Lando's Subs & Pizzeria - 101723,Hudson,1749,,False,False,API key not provided
-nan,Tenderoni's,Boston,2215,,False,False,API key not provided
-110859.0,The Brookline Pizza Spa - 110859,Brookline,2445,,False,False,API key not provided
-nan,The Cottage,Ayer,1432,,False,False,API key not provided
-nan,The Ford Tavern,Medford,2155,,False,False,API key not provided
-12155.0,The Original Ronny's Place - 12155,Medford,2155,,False,False,API key not provided
-12178.0,The Plum Tomato - 12178,Marlborough,1752,,False,False,API key not provided
-17771.0,The Sub Way & Pizza - 17771,Framingham,1702,,False,False,API key not provided
-nan,Theo's House Of Pizza,Natick,1760,,False,False,API key not provided
-110868.0,Theo's Pizza - 110868,Belmont,2478,,False,False,API key not provided
-1613.0,Theo's Pizzeria and Grille - 1613,Weston,2493,,False,False,API key not provided
-nan,Tom's Pizza & Sandwich Shop,Auburndale,2466,,False,False,API key not provided
-39214.0,Tomatoes Pizzeria - 39214,Leominster,1453,,False,False,API key not provided
-37055.0,Tool Town Pizza - 37055,Athol,1331,,False,False,API key not provided
-3192.0,Toscano's Italian Kitchen - 3192,Winchester,1890,,False,False,API key not provided
-nan,Toula's House Of Pizza,Rutland,1543,,False,False,API key not provided
-35745.0,Town House of Pizza - 35745,Westminster,1473,,False,False,API key not provided
-107037.0,Town House Pizza & Roast Beef - 107037,Ashland,1721,,False,False,API key not provided
-1069.0,Union Square Pizza & Sub - 1069,Somerville,2143,,False,False,API key not provided
-nan,University Grill & Pizza,Boston,2215,,False,False,API key not provided
-nan,University Pizza,Framingham,1701,,False,False,API key not provided
-9244.0,Veggie Crust - Brookline - 9244,Brookline,2445,,False,False,API key not provided
-103838.0,Veggie Crust - Somerville - 103838,Somerville,2143,,False,False,API key not provided
-nan,Veggie Crust (Kosher) - Waltham,Waltham,2453,,False,False,API key not provided
-50832.0,Venice Italian Kitchen - 50832,Arlington,2474,,False,False,API key not provided
-46876.0,Venus Pizza - 46876,Somerville,2144,,False,False,API key not provided
-nan,Verona Pizza & Seafood,Ayer,1432,,False,False,API key not provided
-17625.0,Village Fare Pizza - 17625,Brookline,2446,,False,False,API key not provided
-nan,Village Grill And Pizzeria,Athol,1331,,False,False,API key not provided
-nan,Village Kitchen,Cambridge,2138,,False,False,API key not provided
-111830.0,Village Pizza - 111830,Shirley,1464,,False,False,API key not provided
-13577.0,Village Pizza - 13577,Ashburnham,1430,,False,False,API key not provided
-45828.0,Village Pizza & Subs - 45828,Baldwinville,1436,,False,False,API key not provided
-56466.0,Village Pizza House - 56466,Brookline,2445,,False,False,API key not provided
-55802.0,Walden Italian Kitchen - 55802,Concord,1742,,False,False,API key not provided
-2408.0,Waltham Pizza - 2408,Waltham,2452,,False,False,API key not provided
-57976.0,Watch City Grill - 57976,Waltham,2452,,False,False,API key not provided
-53223.0,Wayland Pizza House - 53223,Wayland,1778,,False,False,API key not provided
-8607.0,Wayne's Pizza - 8607,Worcester,1606,,False,False,API key not provided
-19939.0,Waypoint - 19939,Cambridge,2138,,False,False,API key not provided
-nan,Wayside Pizza,Sudbury,1776,,False,False,API key not provided
-12244.0,Wellesley North End Pizza - 12244,Wellesley,2481,,False,False,API key not provided
-11107.0,Wellington's Pizzeria - 11107,Medford,2155,,False,False,API key not provided
-44143.0,West Boylston House of Pizza - 44143,West Boylston,1583,,False,False,API key not provided
-14925.0,West Broadway Pizza & Seafood - 14925,Gardner,1440,,False,False,API key not provided
-552.0,West Newton Pizza & Grill - 552,West Newton,2465,,False,False,API key not provided
-nan,Westford House of Pizza,Westford,1886,,False,False,API key not provided
-1896.0,White Sport Pizza & Subs - 1896,Somerville,2145,,False,False,API key not provided
-nan,ZA ARLINGTON,Arlington,2474,,False,False,API key not provided
-nan,Za Cambridge,CAMBRIDGE,2142,,False,False,API key not provided
-101461.0,ZaZa Pizzeria - 101461,Somerville,2145,,False,False,API key not provided
-42629.0,Zedas Pizza - 42629,Fitchburg,1420,,False,False,API key not provided
-10339.0,Zedas Pizza & Restaurant - 10339,Athol,1331,,False,False,API key not provided
-54339.0,Ziggy's - 54339,Brighton,2135,,False,False,API key not provided
+101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,Place not found
+112483.0,Abe's Pizza - 112483,Athol,1331,,False,False,Place not found
+99089.0,Acton House of Pizza - 99089,Acton,1720,,False,False,Place not found
+nan,Acton New London Style Pizza,Acton,1720,,False,False,Place not found
+36156.0,AJ's Pizzeria - 36156,West Boylston,1583,,False,False,Place not found
+52681.0,Ak's Waltham - 52681,Waltham,2453,,False,False,Place not found
+101889.0,Alexander's Pizza - 101889,Lexington,2421,,False,False,Place not found
+51199.0,All Star Pizza Bar - 51199,Cambridge,2139,,False,False,Place not found
+107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,,False,False,Place not found
+17173.0,Amici's - 17173,Medford,2155,,False,False,Place not found
+nan,Amore Pizza & Kitchen,Medford,2155,,False,False,Place not found
+48139.0,Anastasia's Pizza Oven & Grill - 48139,Framingham,1702,,False,False,Place not found
+108015.0,Andalus Pizza & Cafe - 108015,Brighton,2135,,False,False,Place not found
+nan,ANDREAS PIZZA,WINCHESTER,1890,,False,False,Place not found
+110949.0,Andrina's Pizzeria - 110949,Arlington,2476,,False,False,Place not found
+nan,Angelina's Pizza and Subs,Somerville,2144,,False,False,Place not found
+50131.0,Angelo's House of Pizza - 50131,Waltham,2453,,False,False,Place not found
+nan,Angelo's Pizza,Cambridge,2138,,False,False,Place not found
+5170.0,Annie's Pizzeria - 5170,Medford,2155,,False,False,Place not found
+13714.0,Anthony's Pizza - 13714,Cambridge,2141,,False,False,Place not found
+nan,Area Four,Cambridge,2139,,False,False,Place not found
+17131.0,Arlington Cafe - 17131,Arlington,2474,,False,False,Place not found
+15433.0,Arlington House of Pizza - 15433,Arlington,2476,,False,False,Place not found
+nan,Arsenal Pizza,Watertown,2472,,False,False,Place not found
+98916.0,Ashland Pizza Bella - 98916,Ashland,1721,,False,False,Place not found
+nan,Ashland Pizza Palace,Ashland,1721,,False,False,Place not found
+106923.0,Athens Pizza - 106923,Waltham,2453,,False,False,Place not found
+42079.0,Athens Pizza & Family Restaurant - 42079,Leominster,1453,,False,False,Place not found
+12133.0,Athol House of Pizza Restaurant - 12133,Athol,1331,,False,False,Place not found
+nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,,False,False,Place not found
+11020.0,B & F Pizza - 11020,Waltham,2451,,False,False,Place not found
+39782.0,Barre Pizza - 39782,Barre,1005,,False,False,Place not found
+105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,,False,False,Place not found
+nan,Bazel's Pizza and Sub Shop,Holliston,1746,,False,False,Place not found
+600.0,Beacon Street Pizza - 600,Somerville,2143,,False,False,Place not found
+22987.0,Beauty's Pizza - 22987,Cambridge,2139,,False,False,Place not found
+nan,Bella's Pizzeria,Framingham,1701,,False,False,Place not found
+nan,Belmont Pizza,Belmont,2478,,False,False,Place not found
+109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,,False,False,Place not found
+98967.0,Bhop - Boston House of Pizza - 98967,Watertown,2472,,False,False,Place not found
+nan,Bianca,Chestnut Hill,2467,,False,False,Place not found
+112136.0,Big Daddy's 2 - 112136,Arlington,2474,,False,False,Place not found
+48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,,False,False,Place not found
+112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,,False,False,Place not found
+12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,Place not found
+52439.0,Bill's Pizzeria - 52439,Natick,1760,,False,False,Place not found
+nan,Black Sheep Tavern,Sterling,1564,,False,False,Place not found
+53051.0,Blue Square Pizza - 53051,Hopkinton,1748,,False,False,Place not found
+nan,Bocelli's,Medford,2155,,False,False,Place not found
+52894.0,Boss Pizza & Wings - 52894,Fitchburg,1420,,False,False,Place not found
+110028.0,Boylston House of Pizza - 110028,Boylston,1505,,False,False,Place not found
+98995.0,Brattle Stop Market - 98995,Worcester,1606,,False,False,Place not found
+13513.0,Bravo Pizza - 13513,Boxborough,1719,,False,False,Place not found
+110296.0,Braza Pizzeria & Wings - 110296,Southborough,1772,,False,False,Place not found
+17284.0,Brick Fire Pizza - 17284,Newton Upper Fls,2464,,False,False,Place not found
+15194.0,Brickstone Cafe - 15194,Arlington,2474,,False,False,Place not found
+4728.0,Brighton House of Pizza - 4728,Brighton,2135,,False,False,Place not found
+106790.0,Brother's Pizza - 106790,Hudson,1749,,False,False,Place not found
+39272.0,Brothers Pizza - 39272,Ashburnham,1430,,False,False,Place not found
+nan,Bruno's Pizza,Groton,1450,,False,False,Place not found
+33024.0,Burncoat Pizza - 33024,Worcester,1606,,False,False,Place not found
+5799.0,C & M Pizza - 5799,Leominster,1453,,False,False,Place not found
+12171.0,C & N Pizza - 12171,Newton,2458,,False,False,Place not found
+nan,C & S Pizza Of Pepperell,Pepperell,1463,,False,False,Place not found
+35862.0,C & S Pizza of Winchendon - 35862,Winchendon,1475,,False,False,Place not found
+nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,Place not found
+nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,Place not found
+112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,,False,False,Place not found
+50525.0,Cambridge Pizza - 50525,Cambridge,2139,,False,False,Place not found
+953.0,Cambridge Pizzeria - 953,Cambridge,2139,,False,False,Place not found
+47259.0,Casa Pizza & Pasta - 47259,Medford,2155,,False,False,Place not found
+nan,Celebrity Pizza,Watertown,2472,,False,False,Place not found
+110580.0,Centre Pizza - 110580,Sterling,1564,,False,False,Place not found
+3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,,False,False,Place not found
+nan,Checkerboards Pizza Restaurant & Bar,Hudson,1749,,False,False,Place not found
+nan,Christos Place,Winchendon,1475,,False,False,Place not found
+36718.0,Ciao Bella - 36718,Worcester,1605,,False,False,Place not found
+nan,Ciao! Pizza and Pasta,Somerville,2144,,False,False,Place not found
+22988.0,Cinderella's Bar & Restaurant - 22988,Cambridge,2139,,False,False,Place not found
+8427.0,City Slicker Cafe - 8427,Somerville,2143,,False,False,Place not found
+17472.0,CJ's Gourmet Pizza & Grill - 17472,Sudbury,1776,,False,False,Place not found
+nan,CJS GOURMET PIZZERIA,HUDSON,1749,,False,False,Place not found
+nan,Classic Pizza Restaurant,Marlborough,1752,,False,False,Place not found
+43211.0,Classic Pizza Restaurant III - 43211,Bolton,1740,,False,False,Place not found
+nan,Cleghorn House Of pizza,Fitchburg,1420,,False,False,Place not found
+47894.0,College Pizza - 47894,Boston,2215,,False,False,Place not found
+17317.0,Cooks Window Italian Pizza & Catering - 17317,Wellesley,2481,,False,False,Place not found
+nan,Corrado's Pizzeria,Natick,1760,,False,False,Place not found
+36122.0,Country Pizza - 36122,Fitchburg,1420,,False,False,Place not found
+17386.0,D & A House Of Pizza - 17386,Newton,2458,,False,False,Place not found
+10124.0,D & D Pizza & Subs - 10124,Watertown,2472,,False,False,Place not found
+57643.0,Da LaPosta Pizzeria - 57643,Newton,2460,,False,False,Place not found
+nan,Daddy's Best Pizza,Leominster,1453,,False,False,Place not found
+41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,,False,False,Place not found
+98724.0,Davis Square Pizzeria - 98724,Somerville,2144,,False,False,Place not found
+50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,Place not found
+107238.0,Detroit Pizza Co. - 107238,Brighton,2135,,False,False,Place not found
+17649.0,Devens Pizza & Deli - 17649,Ayer,1432,,False,False,Place not found
+103208.0,Di Napoli Pizzeria - 103208,Westford,1886,,False,False,Place not found
+52807.0,Dicapri Pizzeria - 52807,Acton,1720,,False,False,Place not found
+nan,Diggy's Pizza,Westford,1886,,False,False,Place not found
+nan,Dino's Kouzina & Pizzeria,Concord,1742,,False,False,Place not found
+nan,DINOS PIZZA,CONCORD,1742,,False,False,Place not found
+nan,Dominican Grill Chicken Pizza,Waltham,2451,,False,False,Place not found
+18767.0,Dragon Pizza - 18767,Somerville,2144,,False,False,Place not found
+4318.0,Eddy's Place - 4318,Medford,2155,,False,False,Place not found
+104050.0,Enzina Bakery - 104050,Waltham,2451,,False,False,Place not found
+103273.0,Enzina Pizzeria - 103273,Waltham,2451,,False,False,Place not found
+16906.0,Ernesto's Pizza - 16906,Somerville,2145,,False,False,Place not found
+40008.0,Eros Gourmet Pizza & Deli - 40008,Southborough,1772,,False,False,Place not found
+30305.0,Espresso Pizza - 30305,Fitchburg,1420,,False,False,Place not found
+42306.0,Espresso Pizza & Eatery II - 42306,Leominster,1453,,False,False,Place not found
+105275.0,Evviva Trattoria Marlborough - 105275,Marlborough,1752,,False,False,Place not found
+11450.0,Express Pizza - 11450,Bedford,1730,,False,False,Place not found
+nan,Family House Of Pizza,Marlborough,1752,,False,False,Place not found
+3595.0,Family Style Pizza - 3595,Framingham,1702,,False,False,Place not found
+42156.0,Fastway Pizza - 42156,Worcester,1606,,False,False,Place not found
+nan,FiDO Pizza,Boston,2134,,False,False,Place not found
+111173.0,FIESTA BITES PIZZERIA - 111173,Arlington,2476,,False,False,Place not found
+nan,Fiorella's Express,Lexington,2421,,False,False,Place not found
+nan,Fiorella's Trattoria,Lexington,2421,,False,False,Place not found
+103687.0,For Pizza - 103687,Medford,2155,,False,False,Place not found
+nan,Framingham Sub Shop & Pizza,Framingham,1702,,False,False,Place not found
+13556.0,Franco's Pizzeria & Pub - 13556,Waltham,2453,,False,False,Place not found
+17457.0,Franco's Trattoria - 17457,Sudbury,1776,,False,False,Place not found
+56920.0,Friendly Pizza - 56920,Framingham,1702,,False,False,Place not found
+51004.0,Friendly Town Pizza - 51004,Athol,1331,,False,False,Place not found
+650.0,Friends Pizza - 650,Somerville,2145,,False,False,Place not found
+110100.0,From Scratch-Authentic Italian Pizzeria - 110100,Brighton,2135,,False,False,Place not found
+35287.0,Gabby's Pizza - 35287,Winchendon,1475,,False,False,Place not found
+44469.0,Garden Pizza & Seafood - 44469,Gardner,1440,,False,False,Place not found
+39080.0,Garden Pizza & Sub - 39080,Worcester,1605,,False,False,Place not found
+47117.0,Gaya Pizzeria - 47117,Somerville,2143,,False,False,Place not found
+9467.0,George's Pizza - 9467,Natick,1760,,False,False,Place not found
+1139.0,Gerry's Italian Kitchen - 1139,Watertown,2472,,False,False,Place not found
+nan,Giacomo's Ristorante,Wayland,1778,,False,False,Place not found
+nan,Gianni's Deli And pizza,Needham,2494,,False,False,Place not found
+nan,Gianni's Pizza and Sub's Inc,Framingham,1701,,False,False,Place not found
+54017.0,Gigi's Pizza Co - 54017,Watertown,2472,,False,False,Place not found
+100661.0,Giorgio's Italian Pizzeria - 100661,Hudson,1749,,False,False,Place not found
+14162.0,Giovanni's Famous Pizza - 14162,Natick,1760,,False,False,Place not found
+nan,Gloria's Pizzeria,Winchester,1890,,False,False,Place not found
+106047.0,Goda's Pizza - 106047,Holden,1520,,False,False,Place not found
+nan,Graffiti Pizza and Street Food,Boston,2134,,False,False,Place not found
+nan,Gran Gusto,Cambridge,2140,,False,False,Place not found
+100421.0,Granvitors Pizza - 100421,Medford,2155,,False,False,Place not found
+44918.0,Greendale Pizza - 44918,Worcester,1606,,False,False,Place not found
+16081.0,Greenhouse Kitchen - 16081,Brighton,2135,,False,False,Place not found
+17484.0,Gregory's House of Pizza - 17484,Belmont,2478,,False,False,Place not found
+nan,Gufo,Cambridge,2141,,False,False,Place not found
+111955.0,Half Shell Pizza & More - 111955,Cambridge,2140,,False,False,Place not found
+16907.0,Harvard House of Pizza - 16907,Cambridge,2138,,False,False,Place not found
+nan,Hearth Pizzeria,Needham,2492,,False,False,Place not found
+nan,Hiller's Pizza,Hopkinton,1748,,False,False,Place not found
+106035.0,Holden Pizza - 106035,Holden,1520,,False,False,Place not found
+105701.0,Hot Box - 105701,Somerville,2143,,False,False,Place not found
+nan,Hot Tomatoes,Somerville,2143,,False,False,Place not found
+34298.0,Hubbardston Pizza Palace - 34298,Hubbardston,1452,,False,False,Place not found
+5956.0,Hudson House of Pizza - 5956,Hudson,1749,,False,False,Place not found
+nan,Il Forno Brick Oven Pizza,Lunenburg,1462,,False,False,Place not found
+50185.0,Inbound Pizza - 50185,Allston,2134,,False,False,Place not found
+nan,Ita's Pizza Kitchen,Worcester,1605,,False,False,Place not found
+nan,Jack's Abby Brewing,Framingham,1702,,False,False,Place not found
+41413.0,Jim's Pizza - 41413,Worcester,1605,,False,False,Place not found
+nan,Jinny's Pizzeria,Newton,2459,,False,False,Place not found
+54365.0,Joe Pizza - 54365,Medford,2155,,False,False,Place not found
+104633.0,Johnnie's Pizza & Wings - 104633,Watertown,2472,,False,False,Place not found
+108854.0,Josephine - 108854,Somerville,2143,,False,False,Place not found
+nan,Junction RPD,Ayer,1432,,False,False,Place not found
+nan,June Bug,Somerville,2143,,False,False,Place not found
+nan,Junior Pizza House,Acton,1720,,False,False,Place not found
+nan,Karines Pizza And Deli,Marlborough,1752,,False,False,Place not found
+54622.0,Ken's NY Deli & Pizza - 54622,Bedford,1730,,False,False,Place not found
+17343.0,Kendall House of Pizza - 17343,Cambridge,2141,,False,False,Place not found
+52911.0,Kindles Wood Fired Brick Oven Pizzeria - 52911,Marlborough,1752,,False,False,Place not found
+nan,Kosta's Pizza and Seafood,Needham,2492,,False,False,Place not found
+2172.0,La Befana Pizzeria - 2172,Allston,2134,,False,False,Place not found
+102013.0,La GaZZa Brazilian Kitchen - 102013,Leominster,1453,,False,False,Place not found
+105871.0,La GaZZa Brazilian Kitchen - 105871,Framingham,1701,,False,False,Place not found
+103532.0,La Mamma Pizza & More - 103532,Allston,2134,,False,False,Place not found
+nan,La Toscana's Pizzeria,Wellesley,2482,,False,False,Place not found
+56714.0,LaGazza Kitchen - 56714,Leominster,1453,,False,False,Place not found
+56834.0,Land of Fire Pizzeria - 56834,Brighton,2135,,False,False,Place not found
+nan,Lazy Mary's Pizzeria,Ayer,1432,,False,False,Place not found
+17731.0,Lena's Original Pizza & Sub - 17731,Waltham,2451,,False,False,Place not found
+43188.0,Leominster House of Pizza - 43188,Leominster,1453,,False,False,Place not found
+nan,Leone's Sub And Pizza,Somerville,2145,,False,False,Place not found
+17402.0,Lexington House Of Pizza - 17402,Lexington,2420,,False,False,Place not found
+nan,Liberty Famous Pizza,Framingham,1701,,False,False,Place not found
+49028.0,Liberty's Pizza of Natick - 49028,Natick,1760,,False,False,Place not found
+109496.0,Little Family Pizza - 109496,Watertown,2472,,False,False,Place not found
+504.0,Little Pizza King - 504,Brighton,2135,,False,False,Place not found
+nan,Ma Magoo's,Cambridge,2138,,False,False,Place not found
+56692.0,Main Street Pizza - 56692,Hudson,1749,,False,False,Place not found
+4241.0,Mama Gina's Pizza - 4241,Somerville,2143,,False,False,Place not found
+nan,Mama's Bakery,Ashland,1721,,False,False,Place not found
+55087.0,Mamma Lisa's Pizzeria - 55087,Somerville,2145,,False,False,Place not found
+nan,Mariano's Ristorante,Pepperell,1463,,False,False,Place not found
+52146.0,Mark & Toni's Coal Fired Pizza - 52146,Belmont,2478,,False,False,Place not found
+50929.0,Mark's Pizza & Subs - 50929,Wellesley Hills,2481,,False,False,Place not found
+8798.0,Marlboro House of Pizza - 8798,Marlborough,1752,,False,False,Place not found
+57438.0,Master Pies Pizza - 57438,Arlington,2476,,False,False,Place not found
+nan,Max & Leos Artisan Pizza,Sudbury,1776,,False,False,Place not found
+17485.0,Max And Leo's Artisan Pizza - 17485,Newton,2458,,False,False,Place not found
+111197.0,Maynard Pizza & Bar - 111197,Maynard,1754,,False,False,Place not found
+53369.0,Maynard Village Pizza - 53369,Maynard,1754,,False,False,Place not found
+nan,Michael's Pizza,Belmont,2478,,False,False,Place not found
+107631.0,Mike's Pizza - 107631,Westminster,1473,,False,False,Place not found
+4563.0,Milano Pizza - 4563,Brighton,2135,,False,False,Place not found
+11294.0,Mingaliens Trattoria - 11294,Natick,1760,,False,False,Place not found
+55183.0,Momo Bistro & Brick Oven Pizza - 55183,Fitchburg,1420,,False,False,Place not found
+19949.0,Mortadella Head - 19949,Somerville,2144,,False,False,Place not found
+37815.0,Mr Z's Pizza - 37815,Clinton,1510,,False,False,Place not found
+104018.0,Mr. Roni Cups - 104018,Chestnut Hill,2467,,False,False,Place not found
+16913.0,My Brother's Place - 16913,Arlington,2474,,False,False,Place not found
+nan,Nani's Pizza,Clinton,1510,,False,False,Place not found
+19931.0,Nashoba Club - 19931,Ayer,1432,,False,False,Place not found
+nan,Nashoba Pizza,Westford,1886,,False,False,Place not found
+nan,Needham House Of Pizza,Needham,2492,,False,False,Place not found
+nan,New London Style Pizza-Concord,Concord,1742,,False,False,Place not found
+4571.0,New York Fried Chicken & Pizza - 4571,Brighton,2135,,False,False,Place not found
+nan,New York Pizza Central Square,Cambridge,2139,,False,False,Place not found
+8883.0,New York Taco & Pizza - 8883,Waltham,2452,,False,False,Place not found
+53830.0,Newton Center Town Pizza - 53830,Newton Centre,2459,,False,False,Place not found
+100224.0,Newton Corner House of Pizza - 100224,Watertown,2472,,False,False,Place not found
+17385.0,Newtonville Pizza - 17385,Newton,2460,,False,False,Place not found
+15911.0,Nicholas' Pizzeria - 15911,Needham,2492,,False,False,Place not found
+nan,Nick's Deli & Pizza,Marlborough,1752,,False,False,Place not found
+49801.0,Nick's House of Pizza - 49801,Medford,2155,,False,False,Place not found
+17020.0,Nick's Pizza & Grill - 17020,Ashland,1721,,False,False,Place not found
+17217.0,Nick's Pizza House - 17217,Natick,1760,,False,False,Place not found
+9158.0,Nick's Place - 9158,Lexington,2420,,False,False,Place not found
+47089.0,Nick's Place 2 - 47089,Belmont,2478,,False,False,Place not found
+46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,,False,False,Place not found
+45988.0,Northeast Pizza Barre - 45988,Barre,1005,,False,False,Place not found
+111325.0,NY Pie - 111325,Waltham,2453,,False,False,Place not found
+1834.0,NY Pizza - 1834,Leominster,1453,,False,False,Place not found
+3446.0,Oak Hill Pizza - 3446,Newton Center,2459,,False,False,Place not found
+105595.0,Oath Pizza Linden Square Wellesley - 105595,Wellesley,2482,,False,False,Place not found
+6955.0,Oggi Gourmet - 6955,Cambridge,2138,,False,False,Place not found
+nan,Old School Italian Pizzeria,Wellesley,2482,,False,False,Place not found
+nan,olo Pizza,Worcester,1606,,False,False,Place not found
+21012.0,Olympic Pizza - 21012,Arlington,2474,,False,False,Place not found
+46097.0,Orbit Pizza - 46097,Holden,1520,,False,False,Place not found
+nan,P & S Pizza House,Clinton,1510,,False,False,Place not found
+nan,P & S Pizza Inc,Clinton,1510,,False,False,Place not found
+54540.0,"Padaria Brasil - Bakery, Buffet & Pizzeria - 54540",Framingham,1702,,False,False,Place not found
+nan,Papous Pizzas,Leominster,1453,,False,False,Place not found
+34741.0,Park Hill Pizza - 34741,Fitchburg,1420,,False,False,Place not found
+101913.0,Parker House Of Pizza - 101913,Gardner,1440,,False,False,Place not found
+12914.0,Parrot Pizza Holden - 12914,Holden,1520,,False,False,Place not found
+nan,Patriot Pizza & Subs,Townsend,1469,,False,False,Place not found
+44812.0,Patriots Pizza & More - 44812,Gardner,1440,,False,False,Place not found
+12556.0,Patriots Roast Beef & Pizza - 12556,Templeton,1468,,False,False,Place not found
+3056.0,Pepi's Pizzeria - 3056,Somerville,2145,,False,False,Place not found
+nan,Peter's Pizza,Wellesley,2481,,False,False,Place not found
+nan,Pini's Pizzeria,Medford,2155,,False,False,Place not found
+16729.0,Pini's Pizzeria - 16729,Waltham,2453,,False,False,Place not found
+46787.0,Pinky's Famous Pizza - 46787,Medford,2155,,False,False,Place not found
+9533.0,Pino's Pizza - 9533,Brighton,2135,,False,False,Place not found
+nan,Pinocchio's Pizza & Subs,Cambridge,2138,,False,False,Place not found
+43170.0,Pizza Bella - 43170,Devens,1434,,False,False,Place not found
+18915.0,Pizza By Rocco - 18915,Natick,1760,,False,False,Place not found
+52816.0,Pizza Etc - 52816,Brighton,2135,,False,False,Place not found
+17299.0,Pizza Express - 17299,Maynard,1754,,False,False,Place not found
+17635.0,Pizza Express & More - 17635,Littleton,1460,,False,False,Place not found
+35647.0,Pizza King - 35647,Leominster,1453,,False,False,Place not found
+17158.0,Pizza Market - 17158,West Newton,2465,,False,False,Place not found
+110710.0,Pizza Mine - 110710,Ashland,1721,,False,False,Place not found
+nan,Pizza Peddler & Deli,Natick,1760,,False,False,Place not found
+111836.0,Pizza Pie & Kitchen - 111836,Marlborough,1752,,False,False,Place not found
+17163.0,Pizza Pizzazz - 17163,Pepperell,1463,,False,False,Place not found
+17225.0,Pizza Pizzazz - 17225,Townsend,1469,,False,False,Place not found
+nan,Pizza Project,Brighton,2135,,False,False,Place not found
+102662.0,Pizza Shop at South Natick - 102662,Natick,1760,,False,False,Place not found
+nan,Pizza Stop,Brookline,2445,,False,False,Place not found
+4115.0,Pizza Wagon - 4115,Framingham,1701,,False,False,Place not found
+nan,Pizza-Roma,Watertown,2472,,False,False,Place not found
+nan,"Pizzarella, Inc.",Marlborough,1752,,False,False,Place not found
+44708.0,Pizzaville - 44708,Southborough,1772,,False,False,Place not found
+nan,Pizzeria Presti,Westford,1886,,False,False,Place not found
+109688.0,Planett Pizza - 109688,Marlborough,1752,,False,False,Place not found
+nan,Pleasant Pizza & Grill,Marlborough,1752,,False,False,Place not found
+36127.0,Pomodoro's Pizza - 36127,Worcester,1605,,False,False,Place not found
+17396.0,Post Road Pizza - 17396,Marlborough,1752,,False,False,Place not found
+nan,Posto,Somerville,2144,,False,False,Place not found
+nan,Prairie Fire,Brookline,2446,,False,False,Place not found
+38294.0,Presto Pizza - 38294,Lunenburg,1462,,False,False,Place not found
+12121.0,Primo Pizza of Cambridge & Roast Beef - 12121,Cambridge,2139,,False,False,Place not found
+105602.0,Princeton House of Pizza - 105602,Princeton,1541,,False,False,Place not found
+nan,Proof Pizzeria,Allston,2134,,False,False,Place not found
+52702.0,Rail Trail Flatbread Co - 52702,Hudson,1749,,False,False,Place not found
+53363.0,Ready Set Pizza - 53363,Worcester,1606,,False,False,Place not found
+12867.0,Real Italian Gusto - 12867,Medford,2155,,False,False,Place not found
+nan,Red Tomato Pizza,Barre,1005,,False,False,Place not found
+39381.0,Reno's Pizzeria - 39381,Templeton,1438,,False,False,Place not found
+52321.0,Restaurant Pizza Works - 52321,Worcester,1605,,False,False,Place not found
+111234.0,Riverbridge Pizza & Deli - 111234,Berlin,1503,,False,False,Place not found
+nan,Riverside Pizza & Seafoods,Cambridge,2139,,False,False,Place not found
+nan,Road Runner Pizza,WORCESTER,1606,,False,False,Place not found
+47912.0,Roasted Peppers - 47912,Maynard,1754,,False,False,Place not found
+52995.0,Roasted Peppers Pizza - 52995,Leominster,1453,,False,False,Place not found
+47605.0,Rock City Pizza - 47605,Boston,2134,,False,False,Place not found
+nan,Romano Pizza and Pasta,Acton,1720,,False,False,Place not found
+52671.0,Rossini's Pizzeria - 52671,Sudbury,1776,,False,False,Place not found
+17455.0,Rossini's Pizzeria & Restaurant - 17455,Concord,1742,,False,False,Place not found
+51002.0,Royal Pizza & Subs - 51002,Somerville,2143,,False,False,Place not found
+10066.0,Rustic Pizza - 10066,Sherborn,1770,,False,False,Place not found
+44926.0,Rutland House of Pizza - 44926,Rutland,15430,,False,False,Place not found
+54340.0,Sammy's Pizza & Fried Chicken - 54340,Brighton,2135,,False,False,Place not found
+nan,Semolina Kitchen & Bar,Medford,2155,,False,False,Place not found
+nan,Shannon's Pizza,West Boylston,1583,,False,False,Place not found
+nan,Shirley Sub Shoppe,Shirley,1464,,False,False,Place not found
+nan,Si Cara,Cambridge,2139,,False,False,Place not found
+100954.0,Silk Global Cuisine - 100954,Framingham,1701,,False,False,Place not found
+nan,Silver Palate Pizza,Westford,1886,,False,False,Place not found
+17407.0,Skampa - 17407,Cambridge,2141,,False,False,Place not found
+32407.0,Slater's - 32407,Bolton,1740,,False,False,Place not found
+nan,Sophia's Pizzeria,Townsend,1469,,False,False,Place not found
+nan,Sorrento's Brick Oven Pizzeria,Acton,1720,,False,False,Place not found
+37609.0,Sorrento's Pizzeria - 37609,Harvard,1451,,False,False,Place not found
+52164.0,Source Restaurants - 52164,Cambridge,2138,,False,False,Place not found
+41336.0,Southborough House of Pizza - 41336,Southborough,1772,,False,False,Place not found
+nan,Southborough Pizza,Southborough,1772,,False,False,Place not found
+nan,Spruce Street Tavern,Clinton,1510,,False,False,Place not found
+111412.0,Square Manufacturing - 111412,Natick,1760,,False,False,Place not found
+110705.0,Stefanos' House of Pizza - 110705,Westminster,1473,,False,False,Place not found
+nan,Stella's Pizza,Watertown,2472,,False,False,Place not found
+106042.0,Sterling Village Pizza & More - 106042,Sterling,1564,,False,False,Place not found
+nan,Steve's House Of Pizza,Bedford,1730,,False,False,Place not found
+41606.0,Steve's Pizza - 41606,West Boylston,1583,,False,False,Place not found
+nan,STOKED PIZZA,BROOKLINE,02446-2201,,False,False,Place not found
+nan,Stoked Pizza Company,Cambridge,2138,,False,False,Place not found
+15251.0,Stone L'Oven Pizza Co - 15251,Newton,2468,,False,False,Place not found
+58104.0,Stow House Of Pizza - 58104,Stow,1775,,False,False,Place not found
+50826.0,Street Kitchen - 50826,Marlborough,1752,,False,False,Place not found
+58103.0,Sudbury Pizza Place - 58103,Sudbury,1776,,False,False,Place not found
+110998.0,Super Dough Pizza - 110998,Newton,2464,,False,False,Place not found
+nan,Sweet Tomatoes Neapolitan Pizza,Newton Center,2459,,False,False,Place not found
+12385.0,T Anthony Pizzeria - 12385,Boston,2215,,False,False,Place not found
+101444.0,T. C. Lando's Sub & Pizzeria - 101444,Clinton,1510,,False,False,Place not found
+101725.0,T.C Lando's Sub & Pizzeria - 101725,Leominster,1453,,False,False,Place not found
+nan,Table Top Pizza,Holliston,1746,,False,False,Place not found
+11636.0,Tango Pizza - 11636,Framingham,1702,,False,False,Place not found
+12073.0,Tara Restaurant Pizza & More - 12073,Waltham,2453,,False,False,Place not found
+nan,Tarboosh Pizza and Mediterranean Grill,Allston,2134,,False,False,Place not found
+101723.0,TC Lando's Subs & Pizzeria - 101723,Hudson,1749,,False,False,Place not found
+nan,Tenderoni's,Boston,2215,,False,False,Place not found
+110859.0,The Brookline Pizza Spa - 110859,Brookline,2445,,False,False,Place not found
+nan,The Cottage,Ayer,1432,,False,False,Place not found
+nan,The Ford Tavern,Medford,2155,,False,False,Place not found
+12155.0,The Original Ronny's Place - 12155,Medford,2155,,False,False,Place not found
+12178.0,The Plum Tomato - 12178,Marlborough,1752,,False,False,Place not found
+17771.0,The Sub Way & Pizza - 17771,Framingham,1702,,False,False,Place not found
+nan,Theo's House Of Pizza,Natick,1760,,False,False,Place not found
+110868.0,Theo's Pizza - 110868,Belmont,2478,,False,False,Place not found
+1613.0,Theo's Pizzeria and Grille - 1613,Weston,2493,,False,False,Place not found
+nan,Tom's Pizza & Sandwich Shop,Auburndale,2466,,False,False,Place not found
+39214.0,Tomatoes Pizzeria - 39214,Leominster,1453,,False,False,Place not found
+37055.0,Tool Town Pizza - 37055,Athol,1331,,False,False,Place not found
+3192.0,Toscano's Italian Kitchen - 3192,Winchester,1890,,False,False,Place not found
+nan,Toula's House Of Pizza,Rutland,1543,,False,False,Place not found
+35745.0,Town House of Pizza - 35745,Westminster,1473,,False,False,Place not found
+107037.0,Town House Pizza & Roast Beef - 107037,Ashland,1721,,False,False,Place not found
+1069.0,Union Square Pizza & Sub - 1069,Somerville,2143,,False,False,Place not found
+nan,University Grill & Pizza,Boston,2215,,False,False,Place not found
+nan,University Pizza,Framingham,1701,,False,False,Place not found
+9244.0,Veggie Crust - Brookline - 9244,Brookline,2445,,False,False,Place not found
+103838.0,Veggie Crust - Somerville - 103838,Somerville,2143,,False,False,Place not found
+nan,Veggie Crust (Kosher) - Waltham,Waltham,2453,,False,False,Place not found
+50832.0,Venice Italian Kitchen - 50832,Arlington,2474,,False,False,Place not found
+46876.0,Venus Pizza - 46876,Somerville,2144,,False,False,Place not found
+nan,Verona Pizza & Seafood,Ayer,1432,,False,False,Place not found
+17625.0,Village Fare Pizza - 17625,Brookline,2446,,False,False,Place not found
+nan,Village Grill And Pizzeria,Athol,1331,,False,False,Place not found
+nan,Village Kitchen,Cambridge,2138,,False,False,Place not found
+111830.0,Village Pizza - 111830,Shirley,1464,,False,False,Place not found
+13577.0,Village Pizza - 13577,Ashburnham,1430,,False,False,Place not found
+45828.0,Village Pizza & Subs - 45828,Baldwinville,1436,,False,False,Place not found
+56466.0,Village Pizza House - 56466,Brookline,2445,,False,False,Place not found
+55802.0,Walden Italian Kitchen - 55802,Concord,1742,,False,False,Place not found
+2408.0,Waltham Pizza - 2408,Waltham,2452,,False,False,Place not found
+57976.0,Watch City Grill - 57976,Waltham,2452,,False,False,Place not found
+53223.0,Wayland Pizza House - 53223,Wayland,1778,,False,False,Place not found
+8607.0,Wayne's Pizza - 8607,Worcester,1606,,False,False,Place not found
+19939.0,Waypoint - 19939,Cambridge,2138,,False,False,Place not found
+nan,Wayside Pizza,Sudbury,1776,,False,False,Place not found
+12244.0,Wellesley North End Pizza - 12244,Wellesley,2481,,False,False,Place not found
+11107.0,Wellington's Pizzeria - 11107,Medford,2155,,False,False,Place not found
+44143.0,West Boylston House of Pizza - 44143,West Boylston,1583,,False,False,Place not found
+14925.0,West Broadway Pizza & Seafood - 14925,Gardner,1440,,False,False,Place not found
+552.0,West Newton Pizza & Grill - 552,West Newton,2465,,False,False,Place not found
+nan,Westford House of Pizza,Westford,1886,,False,False,Place not found
+1896.0,White Sport Pizza & Subs - 1896,Somerville,2145,,False,False,Place not found
+nan,ZA ARLINGTON,Arlington,2474,,False,False,Place not found
+nan,Za Cambridge,CAMBRIDGE,2142,,False,False,Place not found
+101461.0,ZaZa Pizzeria - 101461,Somerville,2145,,False,False,Place not found
+42629.0,Zedas Pizza - 42629,Fitchburg,1420,,False,False,Place not found
+10339.0,Zedas Pizza & Restaurant - 10339,Athol,1331,,False,False,Place not found
+54339.0,Ziggy's - 54339,Brighton,2135,,False,False,Place not found
