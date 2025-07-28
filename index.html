@@ -4,351 +4,136 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Pizza Shops Analysis</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 20px;
-      background-color: #f8f9fa;
-    }
-    .container {
-      max-width: 1200px;
-      margin: 0 auto;
-    }
-    .branding {
-      position: fixed;
-      top: 10px;
-      right: 10px;
-      background-color: rgba(0,0,0,0.05);
-      padding: 4px 8px;
-      border-radius: 4px;
-      font-weight: 600;
-      font-family: monospace;
-      color: #234;
-    }
-    h1 {
-      color: #333;
-      margin-bottom: 10px;
-    }
-    .tagline {
-      color: #666;
-      font-style: italic;
-      font-size: 14px;
-      margin-bottom: 20px;
-    }
-    .controls {
-      margin: 20px 0;
-      padding: 15px;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    .search-box {
-      width: 300px;
-      padding: 8px 12px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      margin-right: 10px;
-    }
-    .filter-select {
-      padding: 8px 12px;
-      border: 1px solid #ddd;
-      border-radius: 4px;
-      margin-right: 10px;
-    }
-    .stats {
-      display: flex;
-      gap: 20px;
-      margin: 15px 0;
-    }
-    .stat-box {
-      padding: 10px 15px;
-      background: #e7f3ff;
-      border-radius: 5px;
-      text-align: center;
-    }
-    .stat-number {
-      font-size: 24px;
-      font-weight: bold;
-      color: #0066cc;
-    }
-    .stat-label {
-      font-size: 12px;
-      color: #666;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: white;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-    }
-    th {
-      background-color: #f1f3f4;
-      padding: 12px;
-      text-align: left;
-      font-weight: 600;
-      cursor: pointer;
-      border-bottom: 2px solid #e0e0e0;
-      position: sticky;
-      top: 0;
-    }
-    th:hover {
-      background-color: #e8eaed;
-    }
-    td {
-      padding: 10px 12px;
-      border-bottom: 1px solid #f0f0f0;
-    }
-    tr:hover {
-      background-color: #f8f9fa;
-    }
-    .website-link {
-      color: #1a73e8;
-      text-decoration: none;
-      max-width: 200px;
-      display: inline-block;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-    .website-link:hover {
-      text-decoration: underline;
-    }
-    .status-true {
-      color: #137333;
-      font-weight: 500;
-    }
-    .status-false {
-      color: #d93025;
-      font-weight: 500;
-    }
-    .note {
-      font-size: 12px;
-      color: #666;
-      font-style: italic;
-    }
-    .testimonials {
-      margin-top: 40px;
-      padding: 20px;
-      background: white;
-      border-radius: 8px;
-      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-    .hidden {
-      display: none;
-    }
-  </style>
+  <!-- DataTables CSS -->
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="https://cdn.datatables.net/v/bs5/dt-1.13.4/datatables.min.css"
+  />
+  <!-- Bootstrap CSS (optional for styling) -->
+  <link
+    href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+    rel="stylesheet"
+  />
 </head>
-<body>
-  <div class="branding">#23</div>
-  
-  <div class="container">
-    <h1>Pizza Shops Analysis</h1>
-    <p class="tagline">Crafted by the #23 AI Solutions team – turning pizza data into sales magic.</p>
-    
-    <div class="controls">
-      <input type="text" id="searchBox" class="search-box" placeholder="Search shops..." />
-      <select id="websiteFilter" class="filter-select">
-        <option value="">All Shops</option>
-        <option value="true">Has Website</option>
-        <option value="false">No Website</option>
-      </select>
-      <select id="orderingFilter" class="filter-select">
-        <option value="">All Ordering Types</option>
-        <option value="true">Direct Ordering</option>
-        <option value="false">Third-party Only</option>
-      </select>
-      
-      <div class="stats">
-        <div class="stat-box">
-          <div class="stat-number" id="totalShops">0</div>
-          <div class="stat-label">Total Shops</div>
-        </div>
-        <div class="stat-box">
-          <div class="stat-number" id="hasWebsite">0</div>
-          <div class="stat-label">Has Website</div>
-        </div>
-        <div class="stat-box">
-          <div class="stat-number" id="directOrdering">0</div>
-          <div class="stat-label">Direct Ordering</div>
-        </div>
-      </div>
+<body class="bg-light">
+  <!-- subtle branding overlay in top right corner -->
+  <div style="position:fixed;top:10px;right:10px;background-color:rgba(0,0,0,0.05);padding:4px 8px;border-radius:4px;font-weight:600;font-family:monospace;color:#234">
+    #23
+  </div>
+  <div class="container my-4">
+    <h1 class="mb-3">Pizza Shops Analysis</h1>
+    <!-- tagline describing the AI solution -->
+    <p class="text-muted fst-italic small">Crafted by the #23 AI Solutions team – turning pizza data into sales magic.</p>
+    <p class="lead">
+      Use the table below to explore which shops have websites and direct
+      online ordering. You can sort, filter or search within the table.
+    </p>
+    <table id="shopTable" class="table table-striped table-hover" style="width:100%"></table>
+    <!-- fun testimonials section -->
+    <div class="mt-5">
+      <h5>What our clients say</h5>
+      <blockquote class="blockquote">
+        <p>"Two-three helped us expand our slice of the market!"</p>
+        <footer class="blockquote-footer">Tony's Pizza</footer>
+      </blockquote>
+      <blockquote class="blockquote">
+        <p>"The AI outreach tool is as slick as a fresh slice."</p>
+        <footer class="blockquote-footer">North End Pizzeria</footer>
+      </blockquote>
     </div>
 
-    <table id="shopTable">
-      <thead>
-        <tr>
-          <th onclick="sortTable(0)">Shop ID</th>
-          <th onclick="sortTable(1)">Account Name</th>
-          <th onclick="sortTable(2)">City</th>
-          <th onclick="sortTable(3)">Zip</th>
-          <th onclick="sortTable(4)">Website</th>
-          <th onclick="sortTable(5)">Has Website</th>
-          <th onclick="sortTable(6)">Direct Ordering</th>
-          <th onclick="sortTable(7)">Note</th>
-        </tr>
-      </thead>
-      <tbody id="shopTableBody">
-        <!-- Data will be loaded here -->
-      </tbody>
-    </table>
+    <!-- Column descriptions to help users interpret the table -->
+    <div class="mt-5">
+      <h5>Understanding the Columns</h5>
+      <ul>
+        <li><strong>ShopID</strong>: A unique identifier from the company’s internal system. Use this ID to cross‑reference the shop in other databases.</li>
+        <li><strong>AccountName</strong>: The full name of the pizzeria as it appears in your records. This is the store name you’ll mention in outreach.</li>
+        <li><strong>BillingCity</strong> &amp; <strong>BillingZip</strong>: The city and ZIP code where the shop operates. These help you confirm you’re targeting the right location.</li>
+        <li><strong>Website</strong>: The URL of the shop’s own website, if one exists. Blank values indicate the business does not have a site listed.</li>
+        <li><strong>HasWebsite</strong>: <em>True</em> if Google Places returned a website for the shop; otherwise <em>False</em>. Shops without a site are prime candidates for Slice’s website package.</li>
+        <li><strong>DirectOrdering</strong>: <em>True</em> when the shop’s website offers its own ordering (not just links to DoorDash/GrubHub). If <em>False</em>, the business relies solely on third‑party apps and may benefit from Slice’s integrated ordering and POS.</li>
+        <li><strong>Note</strong>: Additional context explaining why a shop is flagged—e.g., “No website” or “Third‑party only.” Use this field to tailor your outreach.</li>
+      </ul>
+    </div>
 
-    <div class="testimonials">
-      <h3>What our clients say</h3>
-      <blockquote>
-        <p>"Two-three helped us expand our slice of the market!"</p>
-        <footer>— Tony's Pizza</footer>
-      </blockquote>
-      <blockquote>
-        <p>"The AI outreach tool is as slick as a fresh slice."</p>
-        <footer>— North End Pizzeria</footer>
-      </blockquote>
+    <!-- Outreach templates for Chris Sharpe (territory manager at Slice) -->
+    <div class="mt-5">
+      <h5>Outreach Templates for Chris Sharpe</h5>
+      <p class="text-muted">These sample emails and texts are written in a friendly, conversational tone to help Chris connect with pizzeria owners. Adjust the details to fit each shop and sign off with your own contact information.</p>
+      <h6>Email Example&nbsp;1 – For shops without a website</h6>
+      <p>
+        Subject: Grow your pizzeria with a custom website<br>
+        <br>
+        Hi&nbsp;[Shop Name],<br>
+        <br>
+        I’m Chris Sharpe, the territory manager for <strong>Slice</strong>. I noticed you don’t have a website listed online, and I wanted to let you know we specialize in building beautiful, mobile‑friendly sites for independent pizzerias. Our sites include a phone‑ordering solution so your customers can order directly from you—no high commission fees. I’d love to show you how it works and see if it could help your business.<br>
+        <br>
+        Best,<br>
+        Chris Sharpe
+      </p>
+      <h6>Email Example&nbsp;2 – For shops using only third‑party ordering</h6>
+      <p>
+        Subject: Take back control of your online orders<br>
+        <br>
+        Hi&nbsp;[Shop Name],<br>
+        <br>
+        Chris Sharpe here from <strong>Slice</strong>. I saw that you rely on third‑party apps for online orders. Did you know that Slice offers an all‑in‑one ordering solution designed just for pizzerias? You keep more of each sale, control your customer data, and get access to discounted delivery and a pizzeria‑specific POS system. I’d love to chat about how we can lower your fees and increase repeat business.<br>
+        <br>
+        Looking forward to connecting,<br>
+        Chris
+      </p>
+      <h6>Email Example&nbsp;3 – General outreach when the shop has a website</h6>
+      <p>
+        Subject: Unlock the full potential of your pizzeria<br>
+        <br>
+        Hello&nbsp;[Shop Name],<br>
+        <br>
+        My name is Chris Sharpe and I work with <strong>Slice</strong>. Congrats on having your own website! Many pizzeria owners find that managing online orders and delivery can still be challenging. Slice provides an integrated solution—custom websites, phone ordering, discounted delivery, and marketing support—all tailored for pizzerias. I’d love to learn more about your goals and see if we can help you grow.<br>
+        <br>
+        Cheers,<br>
+        Chris
+      </p>
+      <h6>SMS Example</h6>
+      <p>
+        “Hi&nbsp;[Shop Name], this is Chris with Slice. We help local pizzerias like yours take online orders directly and keep more of each sale. Can I send you some info?”
+      </p>
     </div>
   </div>
 
+  <!-- jQuery (required for DataTables) -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <!-- Bootstrap JS (optional) -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- DataTables JS -->
+  <script src="https://cdn.datatables.net/v/bs5/dt-1.13.4/datatables.min.js"></script>
+  <!-- Papa Parse for CSV parsing -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.2/papaparse.min.js"></script>
   <script>
-    let shopData = [];
-    let sortDirection = {};
-
-    // Load and parse CSV data
-    async function loadShopData() {
-      try {
-        const response = await fetch('results.csv');
-        const csvText = await response.text();
-        const lines = csvText.trim().split('\n');
-        const headers = lines[0].split(',');
-        
-        shopData = lines.slice(1).map(line => {
-          const values = parseCSVLine(line);
-          return {
-            shopId: values[0] || '',
-            accountName: values[1] || '',
-            city: values[2] || '',
-            zip: values[3] || '',
-            website: values[4] || '',
-            hasWebsite: values[5] === 'True',
-            directOrdering: values[6] === 'True',
-            note: values[7] || ''
-          };
+    // Load the CSV file and initialise the DataTable
+    fetch('results.csv')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.text();
+      })
+      .then(csvText => {
+        const parsed = Papa.parse(csvText, { header: true });
+        const data = parsed.data.filter(row => Object.keys(row).some(k => row[k] !== ''));
+        const columns = parsed.meta.fields.map(function(key) {
+          return { title: key, data: key };
         });
-        
-        renderTable();
-        updateStats();
-        
-      } catch (error) {
-        console.error('Failed to load shop data:', error);
-        document.getElementById('shopTableBody').innerHTML = 
-          '<tr><td colspan="8" style="text-align: center; color: #666;">Failed to load data</td></tr>';
-      }
-    }
-
-    // Simple CSV parser that handles quoted values
-    function parseCSVLine(line) {
-      const result = [];
-      let current = '';
-      let inQuotes = false;
-      
-      for (let i = 0; i < line.length; i++) {
-        const char = line[i];
-        if (char === '"') {
-          inQuotes = !inQuotes;
-        } else if (char === ',' && !inQuotes) {
-          result.push(current);
-          current = '';
-        } else {
-          current += char;
-        }
-      }
-      result.push(current);
-      return result;
-    }
-
-    // Render the table
-    function renderTable(filteredData = null) {
-      const data = filteredData || shopData;
-      const tbody = document.getElementById('shopTableBody');
-      
-      tbody.innerHTML = data.map(shop => `
-        <tr>
-          <td>${shop.shopId}</td>
-          <td>${shop.accountName}</td>
-          <td>${shop.city}</td>
-          <td>${shop.zip}</td>
-          <td>${shop.website ? `<a href="${shop.website}" class="website-link" target="_blank">${shop.website}</a>` : ''}</td>
-          <td><span class="status-${shop.hasWebsite}">${shop.hasWebsite ? 'Yes' : 'No'}</span></td>
-          <td><span class="status-${shop.directOrdering}">${shop.directOrdering ? 'Yes' : 'No'}</span></td>
-          <td><span class="note">${shop.note}</span></td>
-        </tr>
-      `).join('');
-    }
-
-    // Update statistics
-    function updateStats() {
-      const total = shopData.length;
-      const withWebsite = shopData.filter(s => s.hasWebsite).length;
-      const directOrdering = shopData.filter(s => s.directOrdering).length;
-      
-      document.getElementById('totalShops').textContent = total;
-      document.getElementById('hasWebsite').textContent = withWebsite;
-      document.getElementById('directOrdering').textContent = directOrdering;
-    }
-
-    // Sort table by column
-    function sortTable(columnIndex) {
-      const key = ['shopId', 'accountName', 'city', 'zip', 'website', 'hasWebsite', 'directOrdering', 'note'][columnIndex];
-      const isAsc = sortDirection[key] !== true;
-      sortDirection[key] = isAsc;
-      
-      shopData.sort((a, b) => {
-        let aVal = a[key];
-        let bVal = b[key];
-        
-        if (typeof aVal === 'boolean') {
-          aVal = aVal ? 1 : 0;
-          bVal = bVal ? 1 : 0;
-        }
-        
-        if (aVal < bVal) return isAsc ? -1 : 1;
-        if (aVal > bVal) return isAsc ? 1 : -1;
-        return 0;
+        $('#shopTable').DataTable({
+          data: data,
+          columns: columns,
+          pageLength: 25,
+          responsive: true
+        });
+      })
+      .catch(error => {
+        console.error('Failed to load results.csv:', error);
       });
-      
-      renderTable();
-    }
-
-    // Filter functionality
-    function applyFilters() {
-      const searchTerm = document.getElementById('searchBox').value.toLowerCase();
-      const websiteFilter = document.getElementById('websiteFilter').value;
-      const orderingFilter = document.getElementById('orderingFilter').value;
-      
-      let filtered = shopData.filter(shop => {
-        const matchesSearch = !searchTerm || 
-          shop.accountName.toLowerCase().includes(searchTerm) ||
-          shop.city.toLowerCase().includes(searchTerm) ||
-          shop.website.toLowerCase().includes(searchTerm);
-          
-        const matchesWebsite = !websiteFilter || 
-          shop.hasWebsite.toString() === websiteFilter;
-          
-        const matchesOrdering = !orderingFilter || 
-          shop.directOrdering.toString() === orderingFilter;
-          
-        return matchesSearch && matchesWebsite && matchesOrdering;
-      });
-      
-      renderTable(filtered);
-    }
-
-    // Event listeners
-    document.getElementById('searchBox').addEventListener('input', applyFilters);
-    document.getElementById('websiteFilter').addEventListener('change', applyFilters);
-    document.getElementById('orderingFilter').addEventListener('change', applyFilters);
-
-    // Load data when page loads
-    window.addEventListener('DOMContentLoaded', loadShopData);
   </script>
 </body>
 </html>
