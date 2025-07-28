@@ -7,5 +7,5 @@ __pycache__/
 *.py[cod]
 *.log
 
-# Ignore local analysis output data or secrets
-messages_output.csv
+
+
