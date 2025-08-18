@@ -68,8 +68,8 @@ nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,No website
 nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,No website
 112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,http://www.cambridgeitalianpizzeria.com/,True,True,
 50525.0,Cambridge Pizza - 50525,Cambridge,2139,http://www.cambridgeitalianpizzeria.com/,True,True,
-953.0,Cambridge Pizzeria - 953,Cambridge,2139,,False,False,Place not found
-47259.0,Casa Pizza & Pasta - 47259,Medford,2155,,False,False,Place not found
+953.0,Cambridge Pizzeria - 953,Cambridge,2139,http://www.cambridgepizzamenu.com/?utm_source=gbp,True,True,
+47259.0,Casa Pizza & Pasta - 47259,Medford,2155,http://www.casapizzamedford.com/,True,True,
 nan,Celebrity Pizza,Watertown,2472,http://www.celebritypizzainc.com/,True,True,
 110580.0,Centre Pizza - 110580,Sterling,1564,,False,False,No website
 3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,http://www.charliespizzaallston.com/,True,True,
@@ -92,7 +92,7 @@ nan,Corrado's Pizzeria,Natick,1760,https://www.corradossubs.com/,True,True,
 10124.0,D & D Pizza & Subs - 10124,Watertown,2472,http://ddpizzasubstogo.com/,True,True,
 57643.0,Da LaPosta Pizzeria - 57643,Newton,2460,http://dalaposta.com/,True,True,
 nan,Daddy's Best Pizza,Leominster,1453,https://www.daddysbest-pizza.com/,True,True,
-41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,https://www.dariosbrickoven.com/,True,True,
+41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,https://www.dariosristorante.com/,True,True,
 98724.0,Davis Square Pizzeria - 98724,Somerville,2144,http://www.davissquarepizza.com/,True,True,
 50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,Place not found
 107238.0,Detroit Pizza Co. - 107238,Brighton,2135,http://dpcboston.com/,True,True,
@@ -116,7 +116,7 @@ nan,Dominican Grill Chicken Pizza,Waltham,2451,http://dominicangrillcp.com/,True
 nan,Family House Of Pizza,Marlborough,1752,https://www.familyhouseofpizza.com/,True,True,
 3595.0,Family Style Pizza - 3595,Framingham,1702,https://eatfamilystylepizza.com/?utm_source=google,True,True,
 42156.0,Fastway Pizza - 42156,Worcester,1606,http://fastwaypizza.com/,True,True,
-nan,FiDO Pizza,Boston,2134,http://florinapizza.com/,True,True,
+nan,FiDO Pizza,Boston,2134,,False,False,No website
 111173.0,FIESTA BITES PIZZERIA - 111173,Arlington,2476,http://fiestabitespizzeria.com/,True,True,
 nan,Fiorella's Express,Lexington,2421,https://www.fiorellas.com/,True,True,
 nan,Fiorella's Trattoria,Lexington,2421,https://www.fiorellas.com/,True,True,
@@ -145,7 +145,7 @@ nan,Gloria's Pizzeria,Winchester,1890,http://www.gloriaspizzeria.com/,True,True,
 nan,Graffiti Pizza and Street Food,Boston,2134,https://www.graffitistreetfood.com/,True,True,
 nan,Gran Gusto,Cambridge,2140,http://www.grangustocambridge.com/,True,True,
 100421.0,Granvitors Pizza - 100421,Medford,2155,https://granvitorpizzatogo.com/,True,True,
-44918.0,Greendale Pizza - 44918,Worcester,1606,,False,False,Place not found
+44918.0,Greendale Pizza - 44918,Worcester,1606,https://greendalepizzamenu.com/,True,True,
 16081.0,Greenhouse Kitchen - 16081,Brighton,2135,http://greenhousekitchenma.com/,True,True,
 17484.0,Gregory's House of Pizza - 17484,Belmont,2478,http://www.gregoryspizza.com/,True,True,
 nan,Gufo,Cambridge,2141,http://gufocambridge.com/,True,True,
@@ -166,7 +166,7 @@ nan,Jack's Abby Brewing,Framingham,1702,http://jacksabby.com/,True,True,
 nan,Jinny's Pizzeria,Newton,2459,https://www.jinnyspizza.com/,True,True,
 54365.0,Joe Pizza - 54365,Medford,2155,http://www.joepizza.net/,True,True,
 104633.0,Johnnie's Pizza & Wings - 104633,Watertown,2472,https://app.masa.plus/6378?fbclid=IwAR1BnoP-p_CfBvplxTszcjrNYGE13VtopAjhjUeeLwDji84OoD0_kSbAmGo,True,True,
-108854.0,Josephine - 108854,Somerville,2143,,False,False,No website
+108854.0,Josephine - 108854,Somerville,2143,https://www.josephinepizza.com/,True,True,
 nan,Junction RPD,Ayer,1432,http://junctionpizzaayer.com/,True,True,
 nan,June Bug,Somerville,2143,https://www.junebugrestaurant.com/,True,True,
 nan,Junior Pizza House,Acton,1720,http://www.juniorspizzaonline.com/zgrid/themes/780/mobile/intro/index.jsp,True,True,
@@ -249,7 +249,7 @@ nan,P & S Pizza Inc,Clinton,1510,http://www.pandspizza.com/,True,True,
 nan,Papous Pizzas,Leominster,1453,http://papouspizza.menu/,True,True,
 34741.0,Park Hill Pizza - 34741,Fitchburg,1420,http://parkhillpizza.com/,True,True,
 101913.0,Parker House Of Pizza - 101913,Gardner,1440,http://parkerhousepizza.com/,True,True,
-12914.0,Parrot Pizza Holden - 12914,Holden,1520,https://www.24seveneatsonline.com/api/fb/opr_e_b,True,True,
+12914.0,Parrot Pizza Holden - 12914,Holden,1520,,False,False,No website
 nan,Patriot Pizza & Subs,Townsend,1469,http://www.patriotpizzasubs.com/,True,True,
 44812.0,Patriots Pizza & More - 44812,Gardner,1440,http://www.patriotpizzasubsgardner.com/,True,True,
 12556.0,Patriots Roast Beef & Pizza - 12556,Templeton,1468,http://www.patriotsroastbeefpizzamenu.com/,True,True,
@@ -357,7 +357,7 @@ nan,Theo's House Of Pizza,Natick,1760,https://www.theospizzanatick.com/,True,Tru
 110868.0,Theo's Pizza - 110868,Belmont,2478,https://theospizzaonline.com/,True,True,
 1613.0,Theo's Pizzeria and Grille - 1613,Weston,2493,https://www.theospizzagrillmenu.com/,True,True,
 nan,Tom's Pizza & Sandwich Shop,Auburndale,2466,http://www.toms-pizza.com/,True,True,
-39214.0,Tomatoes Pizzeria - 39214,Leominster,1453,,False,False,Place not found
+39214.0,Tomatoes Pizzeria - 39214,Leominster,1453,https://tomatoespizzeria-mainst-leominster-ma.securebrygid.com/zgrid/themes/13113/mobile/intro/index.jsp,True,True,
 37055.0,Tool Town Pizza - 37055,Athol,1331,https://tooltown-pizza.com/?y_source=1_MjAxNTc2MTE1OC03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D,True,True,
 3192.0,Toscano's Italian Kitchen - 3192,Winchester,1890,https://toscanositalianfood.com/,True,True,
 nan,Toula's House Of Pizza,Rutland,1543,http://www.toulaspizzarutland.com/,True,True,
