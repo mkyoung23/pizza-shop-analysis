@@ -40,7 +40,7 @@ nan,Belmont Pizza,Belmont,2478,,False,False,No website
 109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,https://beytismediterraneangrillandpizza.com/?utm_source=gbp,True,True,
 98967.0,Bhop - Boston House of Pizza - 98967,Watertown,2472,http://www.bhop-online.com/,True,True,
 nan,Bianca,Chestnut Hill,2467,https://www.biancachestnuthill.com/,True,True,
-112136.0,Big Daddy's 2 - 112136,Arlington,2474,,False,False,No website
+112136.0,Big Daddy's 2 - 112136,Arlington,2474,https://bdpizza.com/,True,True,
 48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,http://bdpizza.com/,True,True,
 112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,http://billspizzeria.com/,True,True,
 12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,No website
@@ -92,7 +92,7 @@ nan,Corrado's Pizzeria,Natick,1760,https://www.corradossubs.com/,True,True,
 10124.0,D & D Pizza & Subs - 10124,Watertown,2472,http://ddpizzasubstogo.com/,True,True,
 57643.0,Da LaPosta Pizzeria - 57643,Newton,2460,http://dalaposta.com/,True,True,
 nan,Daddy's Best Pizza,Leominster,1453,https://www.daddysbest-pizza.com/,True,True,
-41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,https://www.dariosbrickoven.com/,True,True,
+41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,https://www.dariosristorante.com/,True,True,
 98724.0,Davis Square Pizzeria - 98724,Somerville,2144,http://www.davissquarepizza.com/,True,True,
 50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,Place not found
 107238.0,Detroit Pizza Co. - 107238,Brighton,2135,http://dpcboston.com/,True,True,
@@ -116,7 +116,7 @@ nan,Dominican Grill Chicken Pizza,Waltham,2451,http://dominicangrillcp.com/,True
 nan,Family House Of Pizza,Marlborough,1752,https://www.familyhouseofpizza.com/,True,True,
 3595.0,Family Style Pizza - 3595,Framingham,1702,https://eatfamilystylepizza.com/?utm_source=google,True,True,
 42156.0,Fastway Pizza - 42156,Worcester,1606,http://fastwaypizza.com/,True,True,
-nan,FiDO Pizza,Boston,2134,http://www.fidopizza.com/,True,True,
+nan,FiDO Pizza,Boston,2134,,False,False,No website
 111173.0,FIESTA BITES PIZZERIA - 111173,Arlington,2476,http://fiestabitespizzeria.com/,True,True,
 nan,Fiorella's Express,Lexington,2421,https://www.fiorellas.com/,True,True,
 nan,Fiorella's Trattoria,Lexington,2421,https://www.fiorellas.com/,True,True,
@@ -174,7 +174,7 @@ nan,Karines Pizza And Deli,Marlborough,1752,https://www.karinesdeli.com/,True,Tr
 54622.0,Ken's NY Deli & Pizza - 54622,Bedford,1730,http://www.kensnydeli.com/,True,True,
 17343.0,Kendall House of Pizza - 17343,Cambridge,2141,https://www.kendallhouseofpizzamenu.com/?utm_source=gbp,True,True,
 52911.0,Kindles Wood Fired Brick Oven Pizzeria - 52911,Marlborough,1752,https://kindleswoodfiredpizzeria.com/,True,True,
-nan,Kosta's Pizza and Seafood,Needham,2492,,False,False,No website
+nan,Kosta's Pizza and Seafood,Needham,2492,https://busilist.org/details/huong-sandwiches-ChIJo6_,True,True,
 2172.0,La Befana Pizzeria - 2172,Allston,2134,https://ordering.chownow.com/order/3080/locations?add_cn_ordering_class=true,True,True,
 102013.0,La GaZZa Brazilian Kitchen - 102013,Leominster,1453,https://lagazzabraziliankitchen.com/,True,True,
 105871.0,La GaZZa Brazilian Kitchen - 105871,Framingham,1701,https://lagazzabraziliankitchen.com/,True,True,
@@ -233,7 +233,7 @@ nan,Nick's Deli & Pizza,Marlborough,1752,http://www.nicksroastbeefdeli.com/,True
 9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nicksplace2belmont.com/,True,True,
 46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,https://nikoschickenuxbridge.com/,True,True,
-45988.0,Northeast Pizza Barre - 45988,Barre,1005,https://www.ediningexpress.com/live20/700/1414/,True,True,
+45988.0,Northeast Pizza Barre - 45988,Barre,1005,https://www.magicalpizzabarre.com/,True,True,
 111325.0,NY Pie - 111325,Waltham,2453,https://nypiepizza.com/,True,True,
 1834.0,NY Pizza - 1834,Leominster,1453,https://leominsternypizza.com/,True,True,
 3446.0,Oak Hill Pizza - 3446,Newton Center,2459,https://www.oakhillpizzeria.com/,True,True,
@@ -371,7 +371,7 @@ nan,University Pizza,Framingham,1701,https://www.24seveneatsonline.com/api/fb/b5
 nan,Veggie Crust (Kosher) - Waltham,Waltham,2453,https://vegcrust.com/,True,True,
 50832.0,Venice Italian Kitchen - 50832,Arlington,2474,https://venicepizzaarlington.com/,True,True,
 46876.0,Venus Pizza - 46876,Somerville,2144,https://www.venuspizzagrill.com/,True,True,
-nan,Verona Pizza & Seafood,Ayer,1432,,False,False,No website
+nan,Verona Pizza & Seafood,Ayer,1432,https://veronapizzaayer.com/,True,True,
 17625.0,Village Fare Pizza - 17625,Brookline,2446,http://www.villagefarepizza.com/,True,True,
 nan,Village Grill And Pizzeria,Athol,1331,https://villagegrillandpizzeria.square.site/,True,True,
 nan,Village Kitchen,Cambridge,2138,,False,False,No website
