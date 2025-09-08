@@ -94,11 +94,11 @@ nan,Corrado's Pizzeria,Natick,1760,https://www.corradossubs.com/,True,True,
 nan,Daddy's Best Pizza,Leominster,1453,https://www.daddysbest-pizza.com/,True,True,
 41525.0,Dario's Brick Oven Restaurante - 41525,Lunenburg,1462,https://www.dariosristorante.com/,True,True,
 98724.0,Davis Square Pizzeria - 98724,Somerville,2144,http://www.davissquarepizza.com/,True,True,
-50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,Place not found
+50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,No website
 107238.0,Detroit Pizza Co. - 107238,Brighton,2135,http://dpcboston.com/,True,True,
 17649.0,Devens Pizza & Deli - 17649,Ayer,1432,http://www.devenspizza.com/,True,True,
 103208.0,Di Napoli Pizzeria - 103208,Westford,1886,https://www.dinapolipizzeria.com/,True,True,
-52807.0,Dicapri Pizzeria - 52807,Acton,1720,https://www.dicapripizza.com/,True,True,
+52807.0,Dicapri Pizzeria - 52807,Acton,1720,http://dicapripizza.com/,True,True,
 nan,Diggy's Pizza,Westford,1886,,False,False,No website
 nan,Dino's Kouzina & Pizzeria,Concord,1742,http://www.dinoskouzina.com/,True,True,
 nan,DINOS PIZZA,CONCORD,1742,http://www.dinoskouzina.com/,True,True,
@@ -174,7 +174,7 @@ nan,Karines Pizza And Deli,Marlborough,1752,https://www.karinesdeli.com/,True,Tr
 54622.0,Ken's NY Deli & Pizza - 54622,Bedford,1730,http://www.kensnydeli.com/,True,True,
 17343.0,Kendall House of Pizza - 17343,Cambridge,2141,https://www.kendallhouseofpizzamenu.com/?utm_source=gbp,True,True,
 52911.0,Kindles Wood Fired Brick Oven Pizzeria - 52911,Marlborough,1752,https://kindleswoodfiredpizzeria.com/,True,True,
-nan,Kosta's Pizza and Seafood,Needham,2492,https://busilist.org/details/huong-sandwiches-ChIJo6_,True,True,
+nan,Kosta's Pizza and Seafood,Needham,2492,,False,False,No website
 2172.0,La Befana Pizzeria - 2172,Allston,2134,https://ordering.chownow.com/order/3080/locations?add_cn_ordering_class=true,True,True,
 102013.0,La GaZZa Brazilian Kitchen - 102013,Leominster,1453,https://lagazzabraziliankitchen.com/,True,True,
 105871.0,La GaZZa Brazilian Kitchen - 105871,Framingham,1701,https://lagazzabraziliankitchen.com/,True,True,
@@ -233,7 +233,7 @@ nan,Nick's Deli & Pizza,Marlborough,1752,http://www.nicksroastbeefdeli.com/,True
 9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nicksplace2belmont.com/,True,True,
 46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,https://nikoschickenuxbridge.com/,True,True,
-45988.0,Northeast Pizza Barre - 45988,Barre,1005,https://www.magicalpizzabarre.com/,True,True,
+45988.0,Northeast Pizza Barre - 45988,Barre,1005,https://www.ediningexpress.com/live20/700/1414/,True,True,
 111325.0,NY Pie - 111325,Waltham,2453,https://nypiepizza.com/,True,True,
 1834.0,NY Pizza - 1834,Leominster,1453,https://leominsternypizza.com/,True,True,
 3446.0,Oak Hill Pizza - 3446,Newton Center,2459,https://www.oakhillpizzeria.com/,True,True,
