@@ -67,7 +67,7 @@ nan,C & S Pizza Of Pepperell,Pepperell,1463,http://www.mycandspizza.com/,True,Tr
 nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,No website
 nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,No website
 112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,http://www.cambridgeitalianpizzeria.com/,True,True,
-50525.0,Cambridge Pizza - 50525,Cambridge,2139,https://www.cambridgepizza.com/,True,True,
+50525.0,Cambridge Pizza - 50525,Cambridge,2139,http://www.cambridgeitalianpizzeria.com/,True,True,
 953.0,Cambridge Pizzeria - 953,Cambridge,2139,http://www.cambridgepizzamenu.com/?utm_source=gbp,True,True,
 47259.0,Casa Pizza & Pasta - 47259,Medford,2155,http://www.casapizzamedford.com/,True,True,
 nan,Celebrity Pizza,Watertown,2472,http://www.celebritypizzainc.com/,True,True,
@@ -233,7 +233,7 @@ nan,Nick's Deli & Pizza,Marlborough,1752,http://www.nicksroastbeefdeli.com/,True
 9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nickplace2belmont.com/,True,True,
 46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,https://nikoschickenuxbridge.com/,True,True,
-45988.0,Northeast Pizza Barre - 45988,Barre,1005,http://www.barrepizza.com/,True,True,
+45988.0,Northeast Pizza Barre - 45988,Barre,1005,,False,False,Place not found
 111325.0,NY Pie - 111325,Waltham,2453,https://nypiepizza.com/,True,True,
 1834.0,NY Pizza - 1834,Leominster,1453,https://leominsternypizza.com/,True,True,
 3446.0,Oak Hill Pizza - 3446,Newton Center,2459,https://www.oakhillpizzeria.com/,True,True,
