@@ -1,7 +1,7 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
 101978.0,57 Lincoln Kitchen - 101978,Newton,2461,https://www.57lincolnkitchen.com/,True,True,
 112483.0,Abe's Pizza - 112483,Athol,1331,https://abespizza.devournow.com/,True,True,
-99089.0,Acton House of Pizza - 99089,Acton,1720,http://www.actonhouseofpizza.com/,True,True,
+99089.0,Acton House of Pizza - 99089,Acton,1720,https://www.actonhouseofpizzama.com/,True,True,
 nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/,True,True,
 36156.0,AJ's Pizzeria - 36156,West Boylston,1583,https://www.ajspizzeriamenu.com/?utm_source=gbp,True,True,
 52681.0,Ak's Waltham - 52681,Waltham,2453,https://akswaltham.com/,True,True,
@@ -42,7 +42,7 @@ nan,Belmont Pizza,Belmont,2478,,False,False,No website
 nan,Bianca,Chestnut Hill,2467,https://www.biancachestnuthill.com/,True,True,
 112136.0,Big Daddy's 2 - 112136,Arlington,2474,https://bdpizza.com/,True,True,
 48355.0,Big Daddy's Pizza & Steak Subs - 48355,Brighton,2135,http://bdpizza.com/,True,True,
-112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,http://billspizzeria.com/,True,True,
+112029.0,Bill's Pizzeria - 112029,Newton Centre,2459,https://bills-newtoncenter.foodtecsolutions.com/ordering/,True,True,
 12229.0,Bill's Pizzeria - 12229,Hopkinton,1748,,False,False,No website
 52439.0,Bill's Pizzeria - 52439,Natick,1760,https://bills-natick.foodtecsolutions.com/ordering/intro,True,True,
 nan,Black Sheep Tavern,Sterling,1564,https://meetmeatthesheep.com/,True,True,
@@ -69,7 +69,7 @@ nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,No website
 112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,http://www.cambridgeitalianpizzeria.com/,True,True,
 50525.0,Cambridge Pizza - 50525,Cambridge,2139,http://www.cambridgeitalianpizzeria.com/,True,True,
 953.0,Cambridge Pizzeria - 953,Cambridge,2139,http://www.cambridgepizzamenu.com/?utm_source=gbp,True,True,
-47259.0,Casa Pizza & Pasta - 47259,Medford,2155,http://www.casapizzamedford.com/,True,True,
+47259.0,Casa Pizza & Pasta - 47259,Medford,2155,http://www.casapizzama.com/,True,True,
 nan,Celebrity Pizza,Watertown,2472,http://www.celebritypizzainc.com/,True,True,
 110580.0,Centre Pizza - 110580,Sterling,1564,https://sterlingcentrepizzama.com/,True,True,
 3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,http://www.charliespizzaallston.com/,True,True,
