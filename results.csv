@@ -1,7 +1,7 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
 101978.0,57 Lincoln Kitchen - 101978,Newton,2461,https://www.57lincolnkitchen.com/,True,True,
 112483.0,Abe's Pizza - 112483,Athol,1331,https://abespizza.devournow.com/,True,True,
-99089.0,Acton House of Pizza - 99089,Acton,1720,https://www.actonhouseofpizzama.com/,True,True,
+99089.0,Acton House of Pizza - 99089,Acton,1720,http://www.actonhouseofpizza.com/,True,True,
 nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/,True,True,
 36156.0,AJ's Pizzeria - 36156,West Boylston,1583,https://www.ajspizzeriamenu.com/?utm_source=gbp,True,True,
 52681.0,Ak's Waltham - 52681,Waltham,2453,https://akswaltham.com/,True,True,
@@ -67,9 +67,9 @@ nan,C & S Pizza Of Pepperell,Pepperell,1463,http://www.mycandspizza.com/,True,Tr
 nan,Caesar's Pizza & Subs,Somerville,2143,,False,False,No website
 nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,No website
 112079.0,Cambridge Italian Pizzeria - 112079,Cambridge,2138,http://www.cambridgeitalianpizzeria.com/,True,True,
-50525.0,Cambridge Pizza - 50525,Cambridge,2139,http://www.cambridgeitalianpizzeria.com/,True,True,
+50525.0,Cambridge Pizza - 50525,Cambridge,2139,https://www.cambridgepizza.com/,True,True,
 953.0,Cambridge Pizzeria - 953,Cambridge,2139,http://www.cambridgepizzamenu.com/?utm_source=gbp,True,True,
-47259.0,Casa Pizza & Pasta - 47259,Medford,2155,https://casapizzama.com/?utm_source=google,True,True,
+47259.0,Casa Pizza & Pasta - 47259,Medford,2155,https://casapizzama.com/,True,True,
 nan,Celebrity Pizza,Watertown,2472,http://www.celebritypizzainc.com/,True,True,
 110580.0,Centre Pizza - 110580,Sterling,1564,https://sterlingcentrepizzama.com/,True,True,
 3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,http://www.charliespizzaallston.com/,True,True,
@@ -189,7 +189,7 @@ nan,Leone's Sub And Pizza,Somerville,2145,https://www.leonessubandpizzas.com/,Tr
 17402.0,Lexington House Of Pizza - 17402,Lexington,2420,https://www.lexingtonhouseofpizza.com/,True,True,
 nan,Liberty Famous Pizza,Framingham,1701,https://libertysfamouspizza.com/,True,True,
 49028.0,Liberty's Pizza of Natick - 49028,Natick,1760,https://www.libertyspizzaofnatick.com/,True,True,
-109496.0,Little Family Pizza - 109496,Watertown,2472,https://www.littlefamilypizzamenu.com/,True,True,
+109496.0,Little Family Pizza - 109496,Watertown,2472,https://www.pizzalittlefamily.com/,True,True,
 504.0,Little Pizza King - 504,Brighton,2135,https://www.lpkbrighton.com/,True,True,
 nan,Ma Magoo's,Cambridge,2138,http://www.mamagoos.com/,True,True,
 56692.0,Main Street Pizza - 56692,Hudson,1749,http://www.hudsonmainstreetpizza.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link&utm_content=website_button,True,True,
@@ -213,7 +213,7 @@ nan,Michael's Pizza,Belmont,2478,https://michaelspizzabelmont.com/,True,True,
 19949.0,Mortadella Head - 19949,Somerville,2144,http://mortadellahead.com/,True,True,
 37815.0,Mr Z's Pizza - 37815,Clinton,1510,http://mrzpizza.com/,True,True,
 104018.0,Mr. Roni Cups - 104018,Chestnut Hill,2467,https://www.mrronicups.com/,True,True,
-16913.0,My Brother's Place - 16913,Arlington,2474,,False,False,Place not found
+16913.0,My Brother's Place - 16913,Arlington,2474,http://mybrothersplacearlington.com/,True,True,
 nan,Nani's Pizza,Clinton,1510,https://www.ninaspizzaclinton.com/,True,True,
 19931.0,Nashoba Club - 19931,Ayer,1432,http://www.nashobaclubpizza.com/,True,True,
 nan,Nashoba Pizza,Westford,1886,http://www.nashobapizzaseafood.com/,True,True,
@@ -266,7 +266,7 @@ nan,Pinocchio's Pizza & Subs,Cambridge,2138,http://www.pinocchiospizza.net/,True
 17299.0,Pizza Express - 17299,Maynard,1754,https://www.pizzaexpressofmaynard.com/?utm_source=gbp,True,True,
 17635.0,Pizza Express & More - 17635,Littleton,1460,,False,False,No website
 35647.0,Pizza King - 35647,Leominster,1453,https://pizzakingleominster.com/?utm_source=google,True,True,
-17158.0,Pizza Market - 17158,West Newton,2465,https://westnewtonpizzamarket.com/,True,True,
+17158.0,Pizza Market - 17158,West Newton,2465,https://westnewtonpizzamarket.com/our-menu/,True,True,
 110710.0,Pizza Mine - 110710,Ashland,1721,https://www.pizzaminema.com/,True,True,
 nan,Pizza Peddler & Deli,Natick,1760,https://www.pizzapeddleranddeli.com/,True,True,
 111836.0,Pizza Pie & Kitchen - 111836,Marlborough,1752,https://pizzapiekitchen.com/,True,True,
