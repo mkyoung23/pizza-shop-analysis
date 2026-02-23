@@ -7,7 +7,7 @@ nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/
 52681.0,Ak's Waltham - 52681,Waltham,2453,https://akswaltham.com/,True,True,
 101889.0,Alexander's Pizza - 101889,Lexington,2421,http://www.alexanderspizza.net/,True,True,
 51199.0,All Star Pizza Bar - 51199,Cambridge,2139,https://allstarpizzabar.com/?utm_source=google,True,True,
-107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,https://online.skytab.com/74fdf7bf51938afa20ad87c20709bc49,True,True,
+107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,http://somuchmorethanpizza.com/,True,True,
 17173.0,Amici's - 17173,Medford,2155,,False,False,No website
 nan,Amore Pizza & Kitchen,Medford,2155,https://amorepizzamedford.com/,True,True,
 48139.0,Anastasia's Pizza Oven & Grill - 48139,Framingham,1702,https://anastasiapizza.com/?utm_source=google,True,True,
@@ -53,7 +53,7 @@ nan,Bocelli's,Medford,2155,http://www.bocellismedford.com/,True,True,
 98995.0,Brattle Stop Market - 98995,Worcester,1606,http://brattlestoppizza.com/,True,True,
 13513.0,Bravo Pizza - 13513,Boxborough,1719,http://bravopizzaboxboro.com/,True,True,
 110296.0,Braza Pizzeria & Wings - 110296,Southborough,1772,https://brazapizzeria.com/,True,True,
-17284.0,Brick Fire Pizza - 17284,Newton Upper Fls,2464,http://www.brickfirepizzaco.com/,True,True,
+17284.0,Brick Fire Pizza - 17284,Newton Upper Fls,2464,http://www.brickfirepizzaco.net/,True,True,
 15194.0,Brickstone Cafe - 15194,Arlington,2474,https://www.brickstonearlington.com/,True,True,
 4728.0,Brighton House of Pizza - 4728,Brighton,2135,http://www.brightonhouseofpizza.com/,True,True,
 106790.0,Brother's Pizza - 106790,Hudson,1749,https://hudsonbrotherspizza.com/,True,True,
@@ -221,7 +221,7 @@ nan,Needham House Of Pizza,Needham,2492,http://www.needhamhouseofpizza.com/,True
 nan,New London Style Pizza-Concord,Concord,1742,http://www.newlondonstylepizza.com/,True,True,
 4571.0,New York Fried Chicken & Pizza - 4571,Brighton,2135,,False,False,No website
 nan,New York Pizza Central Square,Cambridge,2139,https://newyorkpizzaboston.com/,True,True,
-8883.0,New York Taco & Pizza - 8883,Waltham,2452,http://www.newyorktacopizza.com/,True,True,
+8883.0,New York Taco & Pizza - 8883,Waltham,2452,https://newyorktacoypizza.com/,True,True,
 53830.0,Newton Center Town Pizza - 53830,Newton Centre,2459,,False,False,No website
 100224.0,Newton Corner House of Pizza - 100224,Watertown,2472,https://www.newtoncornerhouseofpizza.com/?utm_source=gbp,True,True,
 17385.0,Newtonville Pizza - 17385,Newton,2460,https://newtonvillepizza.com/,True,True,
@@ -322,7 +322,7 @@ nan,Sorrento's Brick Oven Pizzeria,Acton,1720,https://sorrentospizzeria.com/,Tru
 37609.0,Sorrento's Pizzeria - 37609,Harvard,1451,http://www.sorrentospizzeria.com/,True,True,
 52164.0,Source Restaurants - 52164,Cambridge,2138,http://sourcerestaurants.com/,True,True,
 41336.0,Southborough House of Pizza - 41336,Southborough,1772,http://southborough-pizza.com/,True,True,
-nan,Southborough Pizza,Southborough,1772,http://southborough-pizza.com/,True,True,
+nan,Southborough Pizza,Southborough,1772,,False,False,No website
 nan,Spruce Street Tavern,Clinton,1510,http://www.sprucestreettavern.com/,True,True,
 111412.0,Square Manufacturing - 111412,Natick,1760,http://squaremfg.co/,True,True,
 110705.0,Stefanos' House of Pizza - 110705,Westminster,1473,https://stefanospizzas.com/,True,True,
