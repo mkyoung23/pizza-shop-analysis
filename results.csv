@@ -1,5 +1,5 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
-101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,No website
+101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,Place not found
 112483.0,Abe's Pizza - 112483,Athol,1331,https://abespizza.devournow.com/,True,True,
 99089.0,Acton House of Pizza - 99089,Acton,1720,https://www.actonhouseofpizzama.com/,True,True,
 nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/,True,True,
@@ -34,7 +34,7 @@ nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,http://avenuesomerville.com/,True,True,
 105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,https://bastapastacambridge.com/,True,True,
 nan,Bazel's Pizza and Sub Shop,Holliston,1746,https://online.skytab.com/69fd7ecd62059568cf0617d5505b2037,True,True,
 600.0,Beacon Street Pizza - 600,Somerville,2143,https://www.beaconstreetpizza.com/,True,True,
-22987.0,Beauty's Pizza - 22987,Cambridge,2139,http://beauty-pizzas.com/,True,True,
+22987.0,Beauty's Pizza - 22987,Cambridge,2139,https://order.toasttab.com/online/beauty-pizza?diningOption=takeout&rwg_token=AFd1xnGLY39caHIebOpkRUrdkOj9UzHb6yTc6Md9EGOFKwzn3shlcqv2Zy9Vr4-8RdnBgG_Q_0aOh_hrkq2fkwDmo4HANdWL2g%3D%3D,True,True,
 nan,Bella's Pizzeria,Framingham,1701,https://www.bellaspizzeria969.com/,True,True,
 nan,Belmont Pizza,Belmont,2478,,False,False,No website
 109119.0,Beyti's Mediterranean Grill & Pizza - 109119,Fitchburg,1420,https://beytismediterraneangrillandpizza.com/?utm_source=gbp,True,True,
@@ -71,13 +71,13 @@ nan,Cambridge House Of Pizza,Cambridge,2140,,False,False,No website
 953.0,Cambridge Pizzeria - 953,Cambridge,2139,http://www.cambridgepizzamenu.com/?utm_source=gbp,True,True,
 47259.0,Casa Pizza & Pasta - 47259,Medford,2155,https://casapizzama.com/?utm_source=google,True,True,
 nan,Celebrity Pizza,Watertown,2472,http://www.celebritypizzainc.com/,True,True,
-110580.0,Centre Pizza - 110580,Sterling,1564,https://sterlingcentrepizzama.com/,True,True,
+110580.0,Centre Pizza - 110580,Sterling,1564,https://sterlingcentrepizzama.com/?utm_source=google,True,True,
 3131.0,Charlie's Pizza & Cafe - 3131,Allston,2134,http://www.charliespizzaallston.com/,True,True,
 nan,Checkerboards Pizza Restaurant & Bar,Hudson,1749,http://www.checkerboardsrestaurant.com/,True,True,
 nan,Christos Place,Winchendon,1475,https://m.facebook.com/131652486908787/,True,True,
 36718.0,Ciao Bella - 36718,Worcester,1605,http://ciaobellatakeout.com/,True,True,
 nan,Ciao! Pizza and Pasta,Somerville,2144,http://ciao-somerville.com/,True,True,
-22988.0,Cinderella's Bar & Restaurant - 22988,Cambridge,2139,https://www.cinderellasbar.com/,True,True,
+22988.0,Cinderella's Bar & Restaurant - 22988,Cambridge,2139,https://www.toasttab.com/local/order/cinderellas-italian-restaurant-187-hampshire-street/r-cbf6e6dc-4959-4063-b0c9-63f9fbc07b49?diningOption=takeout,True,True,
 8427.0,City Slicker Cafe - 8427,Somerville,2143,,False,False,No website
 17472.0,CJ's Gourmet Pizza & Grill - 17472,Sudbury,1776,https://www.cjssudbury.com/,True,True,
 nan,CJS GOURMET PIZZERIA,HUDSON,1749,https://cjspizzagrill.com/,True,True,
