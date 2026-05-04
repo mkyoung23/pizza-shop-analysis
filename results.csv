@@ -1,5 +1,5 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
-101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,Place not found
+101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,No website
 112483.0,Abe's Pizza - 112483,Athol,1331,https://abespizza.devournow.com/,True,True,
 99089.0,Acton House of Pizza - 99089,Acton,1720,https://www.actonhouseofpizzama.com/,True,True,
 nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/,True,True,
