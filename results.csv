@@ -1,5 +1,5 @@
 ShopID,AccountName,BillingCity,BillingZip,Website,HasWebsite,DirectOrdering,Note
-101978.0,57 Lincoln Kitchen - 101978,Newton,2461,https://circlebackkitchenandbar.com/,True,True,
+101978.0,57 Lincoln Kitchen - 101978,Newton,2461,,False,False,No website
 112483.0,Abe's Pizza - 112483,Athol,1331,https://abespizza.devournow.com/,True,True,
 99089.0,Acton House of Pizza - 99089,Acton,1720,https://www.actonhouseofpizzama.com/,True,True,
 nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/,True,True,
@@ -230,7 +230,7 @@ nan,Nick's Deli & Pizza,Marlborough,1752,http://www.nicksroastbeefdeli.com/,True
 49801.0,Nick's House of Pizza - 49801,Medford,2155,https://www.nickspizzaofmedford.com/,True,True,
 17020.0,Nick's Pizza & Grill - 17020,Ashland,1721,https://www.nickspizzagril.com/,True,True,
 17217.0,Nick's Pizza House - 17217,Natick,1760,https://www.nickspizzahousemenu.com/,True,True,
-9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/,True,True,
+9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/?utm_source=google,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nickplace2belmont.com/,True,True,
 46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,https://nikoschickenuxbridge.com/,True,True,
 45988.0,Northeast Pizza Barre - 45988,Barre,1005,http://www.barrepizza.com/,True,True,
