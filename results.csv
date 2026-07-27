@@ -7,7 +7,7 @@ nan,Acton New London Style Pizza,Acton,1720,http://actonnewlondonstylepizza.com/
 52681.0,Ak's Waltham - 52681,Waltham,2453,https://akswaltham.com/,True,True,
 101889.0,Alexander's Pizza - 101889,Lexington,2421,http://www.alexanderspizza.net/,True,True,
 51199.0,All Star Pizza Bar - 51199,Cambridge,2139,https://allstarpizzabar.com/?utm_source=google,True,True,
-107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,https://www.facebook.com/apiepizzeriacarrollton/,True,True,
+107409.0,American Pie Pizza & More - 107409,Fitchburg,1420,https://online.skytab.com/74fdf7bf51938afa20ad87c20709bc49,True,True,
 17173.0,Amici's - 17173,Medford,2155,,False,False,No website
 nan,Amore Pizza & Kitchen,Medford,2155,https://amorepizzamedford.com/?utm_source=google,True,True,
 48139.0,Anastasia's Pizza Oven & Grill - 48139,Framingham,1702,https://anastasiapizza.com/?utm_source=google,True,True,
@@ -33,7 +33,7 @@ nan,AVENUE KITCHEN + BAR,SOMERVILLE,2144,http://avenuesomerville.com/,True,True,
 39782.0,Barre Pizza - 39782,Barre,1005,http://www.barrepizza.com/,True,True,
 105549.0,Basta Pasta Trattoria - 105549,Cambridge,2139,https://bastapastacambridge.com/,True,True,
 nan,Bazel's Pizza and Sub Shop,Holliston,1746,https://online.skytab.com/69fd7ecd62059568cf0617d5505b2037,True,True,
-600.0,Beacon Street Pizza - 600,Somerville,2143,http://orderbeaconstreetpizza.mobile-webview3.com/,True,True,
+600.0,Beacon Street Pizza - 600,Somerville,2143,https://www.beaconstreetpizza.com/,True,True,
 22987.0,Beauty's Pizza - 22987,Cambridge,2139,https://order.toasttab.com/online/beauty-pizza?diningOption=takeout&rwg_token=AFd1xnGLY39caHIebOpkRUrdkOj9UzHb6yTc6Md9EGOFKwzn3shlcqv2Zy9Vr4-8RdnBgG_Q_0aOh_hrkq2fkwDmo4HANdWL2g%3D%3D,True,True,
 nan,Bella's Pizzeria,Framingham,1701,https://www.bellaspizzeria969.com/,True,True,
 nan,Belmont Pizza,Belmont,2478,,False,False,No website
@@ -228,7 +228,7 @@ nan,New York Pizza Central Square,Cambridge,2139,https://newyorkpizzaboston.com/
 15911.0,Nicholas' Pizzeria - 15911,Needham,2492,https://www.nicholaspizzeria.com/,True,True,
 nan,Nick's Deli & Pizza,Marlborough,1752,http://www.nicksroastbeefdeli.com/,True,True,
 49801.0,Nick's House of Pizza - 49801,Medford,2155,https://www.nickspizzaofmedford.com/,True,True,
-17020.0,Nick's Pizza & Grill - 17020,Ashland,1721,https://www.nickspizzagril.com/,True,True,
+17020.0,Nick's Pizza & Grill - 17020,Ashland,1721,,False,False,No website
 17217.0,Nick's Pizza House - 17217,Natick,1760,https://www.nickspizzahousemenu.com/,True,True,
 9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/?utm_source=google,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nickplace2belmont.com/,True,True,
