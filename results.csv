@@ -96,7 +96,7 @@ nan,Daddy's Best Pizza,Leominster,1453,https://www.daddysbest-pizza.com/,True,Tr
 98724.0,Davis Square Pizzeria - 98724,Somerville,2144,http://www.davissquarepizza.com/,True,True,
 50726.0,Deluxe Pizza - 50726,Wellesley Hills,2481,,False,False,No website
 107238.0,Detroit Pizza Co. - 107238,Brighton,2135,https://dpcboston.com/?utm_source=google,True,True,
-17649.0,Devens Pizza & Deli - 17649,Ayer,1432,http://www.devenspizza.com/,True,True,
+17649.0,Devens Pizza & Deli - 17649,Ayer,1432,https://devenspizzaayer.com/,True,True,
 103208.0,Di Napoli Pizzeria - 103208,Westford,1886,https://www.dinapolipizzeria.com/,True,True,
 52807.0,Dicapri Pizzeria - 52807,Acton,1720,http://dicapripizza.com/,True,True,
 nan,Diggy's Pizza,Westford,1886,,False,False,No website
@@ -112,7 +112,7 @@ nan,Dominican Grill Chicken Pizza,Waltham,2451,http://dominicangrillcp.com/,True
 30305.0,Espresso Pizza - 30305,Fitchburg,1420,https://www.espressopizzafitchburg.com/,True,True,
 42306.0,Espresso Pizza & Eatery II - 42306,Leominster,1453,https://espressopizzaeateryii.com/,True,True,
 105275.0,Evviva Trattoria Marlborough - 105275,Marlborough,1752,https://www.evvivatrattoria.com/,True,True,
-11450.0,Express Pizza - 11450,Bedford,1730,https://www.expresspizzanorton.com/?utm_source=gbp,True,True,
+11450.0,Express Pizza - 11450,Bedford,1730,,False,False,No website
 nan,Family House Of Pizza,Marlborough,1752,https://www.familyhouseofpizza.com/,True,True,
 3595.0,Family Style Pizza - 3595,Framingham,1702,https://eatfamilystylepizza.com/?utm_source=google,True,True,
 42156.0,Fastway Pizza - 42156,Worcester,1606,http://fastwaypizza.com/,True,True,
@@ -129,7 +129,7 @@ nan,Framingham Sub Shop & Pizza,Framingham,1702,https://framinghamsubsandpizza.c
 650.0,Friends Pizza - 650,Somerville,2145,https://www.friendspizzamenu.com/,True,True,
 110100.0,From Scratch-Authentic Italian Pizzeria - 110100,Brighton,2135,https://fromscratch-g.com/,True,True,
 35287.0,Gabby's Pizza - 35287,Winchendon,1475,https://www.gabbyspizza.com/,True,True,
-44469.0,Garden Pizza & Seafood - 44469,Gardner,1440,,False,False,No website
+44469.0,Garden Pizza & Seafood - 44469,Gardner,1440,http://www.gardenpizzaseafood.com/,True,True,
 39080.0,Garden Pizza & Sub - 39080,Worcester,1605,https://www.gardenpizzasub.com/?utm_source=gbp,True,True,
 47117.0,Gaya Pizzeria - 47117,Somerville,2143,https://gayapizzeria.com/,True,True,
 9467.0,George's Pizza - 9467,Natick,1760,http://www.georgespizzanatick.com/,True,True,
@@ -191,9 +191,9 @@ nan,Liberty Famous Pizza,Framingham,1701,https://libertysfamouspizza.com/,True,T
 49028.0,Liberty's Pizza of Natick - 49028,Natick,1760,https://www.libertyspizzaofnatick.com/,True,True,
 109496.0,Little Family Pizza - 109496,Watertown,2472,https://www.pizzalittlefamily.com/,True,True,
 504.0,Little Pizza King - 504,Brighton,2135,https://www.lpkbrighton.com/,True,True,
-nan,Ma Magoo's,Cambridge,2138,,False,False,No website
+nan,Ma Magoo's,Cambridge,2138,http://www.mamagoos.com/,True,True,
 56692.0,Main Street Pizza - 56692,Hudson,1749,http://www.hudsonmainstreetpizza.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp-website-link&utm_content=website_button,True,True,
-4241.0,Mama Gina's Pizza - 4241,Somerville,2143,https://mamaginassomerville.com/?utm_source=google,True,True,
+4241.0,Mama Gina's Pizza - 4241,Somerville,2143,http://mamaginasmenu.com/,True,True,
 nan,Mama's Bakery,Ashland,1721,https://www.instagram.com/pizzariamamashouse?igsh=eGMzcHd2cGQyM3pi,True,True,
 55087.0,Mamma Lisa's Pizzeria - 55087,Somerville,2145,http://www.mammalisaspizza.com/,True,True,
 nan,Mariano's Ristorante,Pepperell,1463,https://www.marianositalian.com/,True,True,
@@ -233,7 +233,7 @@ nan,Nick's Deli & Pizza,Marlborough,1752,http://www.stellaspizza.com/,True,True,
 9158.0,Nick's Place - 9158,Lexington,2420,https://nicksplacelexington.com/?utm_source=google,True,True,
 47089.0,Nick's Place 2 - 47089,Belmont,2478,http://nickplace2belmont.com/,True,True,
 46030.0,Niko's Pizza & Chicken - 46030,North Uxbridge,1468,https://www.24seveneatsonline.com/api/fb/lww_r8,True,True,
-45988.0,Northeast Pizza Barre - 45988,Barre,1005,http://www.barrepizza.com/,True,True,
+45988.0,Northeast Pizza Barre - 45988,Barre,1005,https://www.ediningexpress.com/live20/700/1414/,True,True,
 111325.0,NY Pie - 111325,Waltham,2453,https://nypiepizza.com/?utm_campaign=website,True,True,
 1834.0,NY Pizza - 1834,Leominster,1453,https://leominsternypizza.com/,True,True,
 3446.0,Oak Hill Pizza - 3446,Newton Center,2459,https://www.oakhillpizzeria.com/,True,True,
